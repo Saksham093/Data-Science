@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Liver Prediction Model</title>
+
+</head>
+
+<body>
+    <div class="container">
+        <h2 class='container-heading'><span class="heading_font">Liver Disease Prediction</span></h2>
+    </div>
+
+    <div class="ml-container">
+        <form action="{{ url_for('predict') }}" method="POST">
+            <br>
+            <h3>Age</h3>
+            <input type="text" id="first" name="Age" placeholder="Ex : 65" required="required">
+            <br>
+            <h3>Gender</h3>
+            <input id="second" name="Gender" placeholder="Male = 1, Female = 0" required="required">
+            <br>
+            <h3>Total Bilirubin</h3>
+            <input id="third" name="Total_Bilirubin" placeholder="Ex : 0.7" required="required">
+            <br>
+            <h3>Alkaline Phosphotase</h3>
+            <input id="fourth" name="Alkaline_Phosphotase" placeholder="Ex : 187" required="required">
+            <br>
+            <h3>Alamine Aminotransferase</h3>
+            <input id="fifth" name="Alamine_Aminotransferase" placeholder="Ex : 16" required="required">
+            <br>
+            <h3>Aspartate Aminotransferase</h3>
+            <input id="sixth" name="Aspartate_Aminotransferase" placeholder="Ex : 18" required="required">
+            <br>
+            <h3>Total Protiens</h3>
+            <input id="seventh" name="Total_Protiens" placeholder="Ex : 6.8" required="required">
+            <br>
+            <h3>Albumin</h3>
+            <input id="eight" name="Albumin" placeholder="Ex : 3.3" required="required">
+            <br>
+            <h3>Albumin and Globulin Ratio</h3>
+            <input id="ninth" name="Albumin_and_Globulin_Ratio" placeholder="Ex : 0.9" required="required">
+            <br>
+            <br>
+            <br>
+            <button id="sub" type="submit ">Submit</button>
+            <br>
+            <br>
+            <br>
+            <br>
+            <p class='footer-description'>©2023 M.SAKSHAM</p>
+
+        </form>
+    </div>
+
+
+
+
+    <style>
+        /* Background Image */
+        body {
+            height: 100%;
+
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+
+        }
+
+        /* Color */
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+
+
+        /* Heading Font */
+        .container-heading {
+            margin-top: 20px;
+        }
+
+        .heading_font {
+            color: #black;
+            font-size: 50px;
+            font-weight: normal;
+        }
+
+
+        input {
+            height: 48px;
+            width: 280px;
+            border: 1px solid #c0c0c0;
+            border-radius: 4px;
+            box-sizing: border-box;
+            padding: 16px;
+        }
+
+        .label {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 16px;
+            display: flex;
+            align-items: center;
+        }
+
+        /* h3 {
+            text-align: left;
+        } */
+
+        /* Submit Button */
+        #sub {
+            width: 120px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+
+        #sub:hover {
+            background-color: #45a049;
+        }
+
+
+
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </style>
+
+
+</body>
+
+</html>
