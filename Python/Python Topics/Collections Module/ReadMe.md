@@ -23,7 +23,7 @@ To execute file, run the following command:
 python collections.py
 ```
 
->Note: This code is for practise perpose only.
+>Note: This code is for practice purposes only.
 
 ## **Contributing**
 
