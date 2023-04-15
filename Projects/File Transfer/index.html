@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>File Transfer</title>
+	<link rel="stylesheet" type="text/css" href="/file/style.css">
+	<link rel="shortcut icon" href="/file/df.png">
+	<script src="/file/sg.js"></script>
+</head>
+
+<body>
+
+	<div class="container">
+		<nav>
+			<div class="logo">
+				<img src="/file/df.png" alt="FT Logo">
+				<h2>File <span>Transfer</span></h2>
+			</div>
+			<ul>
+				<li><a href="/learn">How To Use</a></li>
+				<li><a href="#" onclick="show('popup')">About Me</a></li>
+			</ul>
+		</nav>
+
+		<main>
+			<div class="content">
+				<h2>File Transfer</h2>
+				<p>Simple and Secure File Transfer</p>
+				<a href="/send"><button class="main-btn">Send</button></a>
+				<a href="/main"><button class="main-btn">Receive</button></a>
+			</div>
+			<div class="image">
+				<img src="/file/Layer 2.svg" alt="FT Image">
+			</div>
+		</main>
+	</div>
+
+	<!-- This is what will be included inside the popup -->
+	<div class="popup" id="popup">
+
+		<div class="containers">
+			<div class="card">
+				<div class="card__border">
+					<img src="https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+						alt="card image" class="card__img" />
+				</div>
+
+				<h3 class="card__name">Bhagat Snehankit</h3>
+				<span class="card__profession">Intern</span>
+				<br>
+				<br>
+				<button href="#" onclick="hide('popup')">Close</button>
+			</div>
+		</div>
+
+	</div>
+
+
+	<script type="text/javascript">
+		if (window.innerHeight < window.innerWidth) {
+			document.getElementsByClassName("main-btn")[0].style.width = "50%";
+			document.getElementsByClassName("main-btn")[1].style.width = "50%";
+		}
+
+
+		$ = function (id) {
+			return document.getElementById(id);
+		}
+
+		var show = function (id) {
+			$(id).style.display = 'block';
+		}
+		var hide = function (id) {
+			$(id).style.display = 'none';
+		}
+	</script>
+
+</body>
+
+</html>

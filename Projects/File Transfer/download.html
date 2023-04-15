@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>File Transfer | Receive</title>
+    <link rel="shortcut icon" href="tf_logo.png">
+
+    <link rel="stylesheet" type="text/css" href="/file/download.css">
+    <link rel="shortcut icon" href="/file/df.png">
+    <script src="/file/sg.js"></script>
+</head>
+
+<style> 
+    input[type=text] {
+      width: 60%;
+      box-sizing: border-box;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+      font-size: 16px;
+      background-color: white;
+      background-image: url('searchicon.png');
+      background-position: 10px 10px; 
+      background-repeat: no-repeat;
+      padding: 12px 20px 12px 40px;
+    }
+    </style>
+
+<body>
+
+    <div class="container">
+        <nav>
+            <div class="logo">
+                <img src="/file/df.png" alt="FT Logo">
+                <h2>File <span>Transfer</span></h2>
+            </div>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/learn">How To Use</a></li>
+                <!-- <li><a href="#">About Me</a></li> -->
+            </ul>
+        </nav>
+
+        <main>
+            <div class="content">
+                <h2>Download The Files</h2>
+
+                <form action="/main" method="POST" enctype="multipart/form-data">
+                    <input type="text" name="link" placeholder="Enter Code"><br><br>
+                    <button>Download</button>
+
+                </form>
+                <a href="/"><button>Back</button></a>
+
+            </div>
+            <div class="image">
+                <img src="/file/download_image.svg" alt="Upload Image">
+            </div>
+        </main>
+    </div>
+
+</body>
+
+</html>

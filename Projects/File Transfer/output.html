@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>File Transfer | Encrypted Code</title>
+	<link rel="shortcut icon" href="tf_logo.png">
+
+	<link rel="stylesheet" type="text/css" href="/file/output.css">
+	<link rel="shortcut icon" href="/file/df.png">
+	<script src="/file/sg.js"></script>
+</head>
+
+<body>
+	<div class="container">
+		<nav>
+			<div class="logo">
+				<img src="/file/df.png" alt="FT Logo">
+				<h2>File <span>Transfer</span></h2>
+			</div>
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/learn">How To Use</a></li>
+				<!-- <li><a href="#">About Me</a></li> -->
+			</ul>
+		</nav>
+
+		<main>
+			<div class="content">
+				<h2>Encrypted Code</h2>
+				<p>Share this code to one whom you want to share the files</p>
+				<p>The code once used cannot be used again because all the files get deleted after getting transfered
+					to respective user.</p>
+
+				<br>
+				<input id="passcode" type="text" value="pass-sdfhe8rhe98rhf89erhfe8" readonly><br><br>
+				<button onclick="copyText()">Copy</button>
+				<a href="/"><button>Back</button></a>
+
+			</div>
+			<div class="image">
+				<img src="/file/code.svg" alt="Upload Image">
+			</div>
+		</main>
+	</div>
+
+	<script>
+
+		function copyText() {
+
+			/* Select text area by id*/
+			var Text = document.getElementById("passcode");
+
+			/* Select the text inside text area. */
+			Text.select();
+
+			/* Copy selected text into clipboard */
+			navigator.clipboard.writeText(Text.value);
+
+			/* Set the copied text as text for 
+			div with id clipboard */
+			document.getElementById("clipboard")
+				.innerHTML = Text.value;
+		}
+
+	</script>
+
+
+</body>
+
+</html>
