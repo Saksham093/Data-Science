@@ -1,4 +1,4 @@
-# **Machine Learning & Data Science Projects Pack**
+# **Machine Learning & Data Science Projects Package**
 
 ## **Domains**
 
