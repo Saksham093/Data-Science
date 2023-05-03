@@ -67,12 +67,74 @@
 #         return "The name \'{}\' is not present in the list.".format(name)
 
 # ---------------------------------------------------------------------------
+
+# def q_6():
+#     import re
+#
+#     post = input("Enter a post : ")
+#
+#     if re.search(r'\bsomeone\b', post, re.IGNORECASE):
+#         return "The post is talking about someone."
+#     else:
+#         return "The post is not talking about someone."
+
 # ---------------------------------------------------------------------------
+
+# def q_7():
+#     n = int(input("Enter an integer: "))
+#     nums = ''
+#
+#     for i in range(1, n + 1):
+#         if n % i == 0:
+#             nums = nums + str(i) + ", "
+#
+#     return "The divisors of {} are : {}".format(n, nums)
+
+
 # ---------------------------------------------------------------------------
+
+# def q_8() -> None:
+#     n = int(input("Enter an integer: "))
+#
+#     print("Multiplication table of {}:".format(n))
+#
+#     for i in range(1, 11):
+#         print("{} x {} = {}".format(n, i, n * i))
+#     return None
+
+
 # ---------------------------------------------------------------------------
+
+# def q_9() -> None:
+#     names = ["Vipin", "hamid", "sapna", "michael", "shoaib", "shreya", "aadil"]
+#
+#     for name in names:
+#         if name.startswith('s' or 'S'):
+#             print("Hello, {}!".format(name))
+#     return None
+
+
 # ---------------------------------------------------------------------------
+
+def q_10() -> str:
+    n = int(input("Enter an integer: "))
+
+    if n < 2:
+        return "Not Prime"
+    else:
+        prime = True
+        for i in range(2, int(n ** 0.5) + 1):
+            if n % i == 0:
+                prime = False
+                break
+        if prime:
+            return "Prime"
+        else:
+            return "Not Prime"
+
+
 # ---------------------------------------------------------------------------
 
 
 # Call the Function for respective Question ...
-# print(q_5())
+print(q_10())

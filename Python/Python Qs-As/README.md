@@ -97,12 +97,20 @@ def q_5():
 
 ---
 
-`Q.6` Write a program to find whether a given post is talking about “Someone” or not.
+`Q.6` Write a program to find whether a given post is talking about `"Someone"` or `"Not"`.
 
 `A.6`
 
 ```Python
+def q_6():
+    import re
 
+    post = input("Enter a post : ")
+
+    if re.search(r'\bsomeone\b', post, re.IGNORECASE):
+        return "The post is talking about someone."
+    else:
+        return "The post is not talking about someone."
 ```
 
 ---
@@ -112,23 +120,37 @@ def q_5():
 `A.7`
 
 ```Python
+def q_7():
+    n = int(input("Enter an integer: "))
+    nums = ''
 
+    for i in range(1, n + 1):
+        if n % i == 0:
+            nums = nums + str(i) + ", "
+
+    return "The divisors of {} are : {}".format(n, nums)
 ```
 
 ---
 
-`Q.8` Write a program in Python which asks the user to enter an integer n and to display the multiplication table of
-this number.
+`Q.8` Write a program in Python, that asks the user to enter an integer `n` and to display the multiplication table of this number.
 
 `A.8`
 
 ```Python
+def q_8() -> None:
+    n = int(input("Enter an integer: "))
 
+    print("Multiplication table of {}:".format(n))
+
+    for i in range(1, 11):
+        print("{} x {} = {}".format(n, i, n * i))
+    return None
 ```
 
 ---
 
-`Q.9` Write a program to greet all the persons whose names in a list which start with `S`.
+`Q.9` Write a program to greet all the persons whose names are in a list that start with `'S'`.
 
 ```Python
 List=["vipin", "hamid", "sapna", "michael", "shoaib", "shreya", "aadil"]
@@ -137,24 +159,43 @@ List=["vipin", "hamid", "sapna", "michael", "shoaib", "shreya", "aadil"]
 `A.9`
 
 ```Python
+def q_9() -> None:
+    names = ["Vipin", "hamid", "sapna", "michael", "shoaib", "shreya", "aadil"]
+
+    for name in names:
+        if name.startswith('s' or 'S'):
+            print("Hello, {}!".format(name))
+    return None
 
 ```
 
 ---
 
-`Q.10` Write a program that asks the user to enter an integer n and sends back the message indicating whether the
-number is prime or not.
+`Q.10` Write a program that asks the user to enter an integer `'n'` and sends back the message indicating whether the number is `"Prime"` or `"Not"`.
 
 `A.10`
 
 ```Python
+def q_10() -> str:
+    n = int(input("Enter an integer: "))
 
+    if n < 2:
+        return "Not Prime"
+    else:
+        prime = True
+        for i in range(2, int(n ** 0.5) + 1):
+            if n % i == 0:
+                prime = False
+                break
+        if prime:
+            return "Prime"
+        else:
+            return "Not Prime"
 ```
 
 ---
 
-`Q.11` Write a python program (use function)which takes as argument two integers m and n which returns the list
-of all divisors common to m and n .
+`Q.11` Write a Python program (use function) that takes as argument two integers `'m'` and `'n'`, and returns the list of all divisors common to `'m'` and `'n'`.
 
 `A.11`
 
@@ -164,7 +205,7 @@ of all divisors common to m and n .
 
 ---
 
-`Q.12` Write a python program (use function) that takes an integer n as an argument and returns the largest and
+`Q.12` Write a Python program (use function) that takes an integer n as an argument and returns the largest and
 smallest prime integer less than or equal to n.
 
 `A.12`
