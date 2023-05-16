@@ -200,7 +200,14 @@ def q_10() -> str:
 `A.11`
 
 ```Python
+def q_11() -> list:
+    m = int(input("Enter the first integer (m): "))
+    n = int(input("Enter the second integer (n): "))
 
+    div_m = {x for x in range(1, m + 1) if m % x == 0}
+    div_n = {x for x in range(1, n + 1) if n % x == 0}
+    common_divisors = list(div_m & div_n)
+    return common_divisors
 ```
 
 ---
@@ -211,7 +218,32 @@ smallest prime integer less than or equal to n.
 `A.12`
 
 ```Python
+def is_prime(num) -> bool:
+    if num < 2:
+        return False
+    for i in range(2, int(num ** 0.5) + 1):
+        if num % i == 0:
+            return False
+    return True
 
+
+def q_12() -> tuple[int, int]:
+    n = int(input("Enter an integer (n): "))
+
+    largest_prime = None
+    smallest_prime = None
+
+    for num in range(n, 1, -1):
+        if is_prime(num):
+            largest_prime = num
+            break
+
+    for num in range(n - 1, 1, -1):
+        if is_prime(num):
+            smallest_prime = num
+            break
+
+    return largest_prime, smallest_prime
 ```
 
 ---
@@ -221,7 +253,27 @@ smallest prime integer less than or equal to n.
 `A.13`
 
 ```Python
+def q_13_while() -> int:
+    n = int(input("Enter a positive integer (n)[While Loop]: "))
 
+    total = 0
+    i = 1
+
+    while i <= n:
+        total += i
+        i += 1
+
+    return total
+
+
+def q_13_for() -> int:
+    n = int(input("Enter a positive integer (n)[For loop]: "))
+    total = 0
+
+    for i in range(1, n + 1):
+        total += i
+
+    return total
 ```
 
 ---
@@ -231,7 +283,14 @@ smallest prime integer less than or equal to n.
 `A.14`
 
 ```Python
+def q_14() -> int:
+    n = int(input("Enter a non-negative integer: "))
+    result = 1
 
+    for i in range(1, n + 1):
+        result *= i
+
+    return result
 ```
 
 ---
@@ -250,7 +309,13 @@ smallest prime integer less than or equal to n.
 `A.15`
 
 ```Python
+def q_15() -> None:
+    n = int(input("Enter a positive integer (n): "))
 
+    for i in range(1, n + 1):
+        print(" " * (n - i) + "* " * i)
+
+    return None
 ```
 
 ---
@@ -270,7 +335,13 @@ number of rows the integer n typed by the user as shown in the following design:
 `A.16`
 
 ```Python
+def q_16() -> None:
+    n = int(input("Enter a positive integer (n): "))
 
+    for i in range(1, n + 1):
+        print("* " * i)
+
+    return None
 ```
 
 ---
@@ -289,7 +360,11 @@ number of rows the integer n typed by the user as shown in the following design:
 `A.17`
 
 ```Python
+def q_17() -> None:
+    n = int(input("Enter a positive integer (n): "))
 
+    for i in range(1, n + 1):
+        print(" " * (2 * (n - i)) + "* " * i)
 ```
 
 ---
@@ -312,7 +387,13 @@ number of rows the integer n typed by the user as shown in the following design:
 `A.18`
 
 ```Python
+def q_18() -> None:
+    for i in range(1, 10 + 1):
+        for j in range(i, 10 + 1):
+            print(j, end=" ")
+        print()  # Break
 
+    return None
 ```
 
 ---
@@ -328,7 +409,16 @@ number of rows the integer n typed by the user as shown in the following design:
 `A.19`
 
 ```Python
+def q_19() -> None:
+    n = int(input("Enter a positive integer (n): "))
 
+    for i in range(n):
+        for j in range(n):
+            if i == 0 or i == n - 1 or j == 0 or j == n - 1:
+                print("*", end=" ")
+            else:
+                print(" ", end=" ")
+        print()
 ```
 
 ---
@@ -338,7 +428,14 @@ number of rows the integer n typed by the user as shown in the following design:
 `A.20`
 
 ```Python
+def q_20() -> None:
+    n = int(input("Enter a positive integer (n): "))
 
+    print("The Multiplication Table of {} :".format(n))
+    for i in range(10, 0, -1):
+        print(f"{n} x {i} = {n * i}")
+    
+    return None
 ```
 
 ---
@@ -635,7 +732,7 @@ number of rows the integer n typed by the user as shown in the following design:
 
 ## **Usage**
 
-To run a program, first uncomment the funtion, then call by run the following command:
+To run a program, first uncomment the function, then call by run the following command:
 
 ```python
 print(q_4) # Change question number ...
