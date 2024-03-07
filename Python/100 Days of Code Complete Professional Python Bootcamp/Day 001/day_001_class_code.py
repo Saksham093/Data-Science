@@ -21,3 +21,15 @@ print("Hello" + " " + "Saksham!")
 
 # input inside print without variable...
 print("Hello " + input("What's your name? ") + "!")
+
+# Variables...
+name = "Jack"
+print(name)
+
+name = "Angela"
+print(name)
+
+
+name = input("What is your name?")
+length = len(name)
+print(length)

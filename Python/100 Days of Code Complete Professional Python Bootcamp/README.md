@@ -14,10 +14,10 @@ This boot camp is designed for individuals who are passionate about data, from b
 
 ### Beginner Python
 
-- [ ] Variables in Python
-- [ ] String Manipulation
-- [ ] Input and Print Functions
-- [ ] Variable Naming Rules
+- [X] Variables in Python
+- [X] String Manipulation
+- [X] Input and Print Functions
+- [X] Variable Naming Rules
 - [ ] Mathematical Operations in Python
 - [ ] DataTypes
 - [ ] Converting types
@@ -38,6 +38,14 @@ This boot camp is designed for individuals who are passionate about data, from b
 - [ ] Doc Strings vs. Comments
 - [ ] Scope and Local/Global Variables
 - [ ] Debugging Techniques
+
+## Projects
+
+> Building **100 Projects** in **100 Days**.
+
+### Beginner Projects
+
+- [X] 1. Band_Name Generator - [Code](./Day%20001/P_001_band_name_generator.py)
 
 ## Contributing
 
@@ -61,4 +69,4 @@ For more information or inquiries about collaboration and projects, feel free to
 - **Kaggle :** [Saksham093](https://www.kaggle.com/saksham093)
 - **X :** [M.SAKSHAM](https://x.com/M_Saksham093)
 
-Thank you for visiting my certifications repository!
+Thank you for visiting my repository!
