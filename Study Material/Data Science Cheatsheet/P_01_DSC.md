@@ -161,4 +161,6 @@ $r = \frac{Cov(X,Y)}{σ(X)σ(Y)}$
 
 *Note*: Correlation does not imply causation!
 
+<div align="center"><b>Page 1/2</b></div>
+
 <div align="right"><a href="./P_02_DSC.md">Next Page</a></div>

@@ -55,4 +55,6 @@ Lowercasing, removing non-alphanumeric, repairing, unidecode, removing unknown c
 
 <div align="left"><a href="./P_01_DSC.md">Previous Page</a></div>
 
+<div align="center"><b>Page 2/2</b></div>
+
 <div align="right"><a href="./P_03_DSC.md">Next Page</a></div>
