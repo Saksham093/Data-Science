@@ -37,8 +37,8 @@ This boot camp is designed for individuals who are passionate about data, from b
 - [X] Mathematical Operations in Python
 - [X] DataTypes
 - [X] Converting types
-- [ ] Conditionals IF/ELIF/ELSE
-- [ ] Logical Operators
+- [X] Conditionals IF/ELIF/ELSE
+- [X] Logical Operators
 - [ ] Randomization
 - [ ] Error Handling
 - [ ] Functions
@@ -117,7 +117,7 @@ This boot camp is designed for individuals who are passionate about data, from b
 
 - [X] 1. Band_Name Generator - [Code](./Day%20001/P_001_band_name_generator.py)
 - [X] 2. Tip Calculator - [Code](./Day%20002/P_002_tip_calculator.py)
-- [ ] 3. - [code]()
+- [X] 3. Treasure Island - [code](./Day%20003/)
 - [ ] 4. - [code]()
 - [ ] 5. - [code]()
 - [ ] 6. - [code]()
@@ -220,7 +220,7 @@ This boot camp is designed for individuals who are passionate about data, from b
 
 - [X] Day 001 - [Working with Variables in Python to Manage Data](./Day%20001/)
 - [X] Day 002 - [Understanding Data Types and How to Manipulate Strings](./Day%20002)
-- [ ] Day 003 - []()
+- [X] Day 003 - [Control Flow and Logical Operators](./Day%20003)
 - [ ] Day 004 - []()
 - [ ] Day 005 - []()
 - [ ] Day 006 - []()
