@@ -1,0 +1,150 @@
+bike_name,price,city,kms_driven,owner,age,power,brand
+TVS Star City Plus Dual Tone 110cc,35000.0,Ahmedabad,17654.0,First Owner,3.0,110.0,TVS
+Royal Enfield Classic 350cc,119900.0,Delhi,11000.0,First Owner,4.0,350.0,Royal Enfield
+Triumph Daytona 675R,600000.0,Delhi,110.0,First Owner,8.0,675.0,Triumph
+TVS Apache RTR 180cc,65000.0,Bangalore,16329.0,First Owner,4.0,180.0,TVS
+Yamaha FZ S V 2.0 150cc-Ltd. Edition,80000.0,Bangalore,10000.0,First Owner,3.0,150.0,Yamaha
+Yamaha FZs 150cc,53499.0,Delhi,25000.0,First Owner,6.0,150.0,Yamaha
+Honda CB Hornet 160R  ABS DLX,85000.0,Delhi,8200.0,First Owner,3.0,160.0,Honda
+Hero Splendor Plus Self Alloy 100cc,45000.0,Delhi,12645.0,First Owner,3.0,100.0,Hero
+Royal Enfield Thunderbird X 350cc,145000.0,Bangalore,9190.0,First Owner,3.0,350.0,Royal Enfield
+Royal Enfield Classic Desert Storm 500cc,88000.0,Delhi,19000.0,Second Owner,7.0,500.0,Royal Enfield
+Yamaha YZF-R15 2.0 150cc,72000.0,Bangalore,20000.0,First Owner,7.0,150.0,Yamaha
+Yamaha FZ25 250cc,95000.0,Bangalore,9665.0,First Owner,4.0,250.0,Yamaha
+Bajaj Pulsar NS200,78000.0,Bangalore,9900.0,First Owner,4.0,200.0,Bajaj
+Bajaj Discover 100M,29499.0,Delhi,20000.0,First Owner,8.0,100.0,Bajaj
+Bajaj Discover 125M,29900.0,Delhi,20000.0,First Owner,7.0,125.0,Bajaj
+Bajaj Pulsar NS200 ABS,90000.0,Bangalore,11574.0,First Owner,3.0,200.0,Bajaj
+Bajaj Pulsar RS200 ABS,120000.0,Bangalore,23000.0,First Owner,3.0,200.0,Bajaj
+Suzuki Gixxer SF 150cc,48000.0,Mumbai,24725.0,First Owner,5.0,150.0,Suzuki
+Benelli 302R 300CC,240000.0,Mumbai,15025.0,Second Owner,3.0,302.0,Benelli
+Bajaj Discover 125M,29900.0,Delhi,20000.0,First Owner,7.0,125.0,Bajaj
+Bajaj Pulsar RS200 ABS,120000.0,Bangalore,23000.0,First Owner,3.0,200.0,Bajaj
+Suzuki Gixxer SF 150cc,48000.0,Mumbai,24725.0,First Owner,5.0,150.0,Suzuki
+Hero Splendor iSmart Plus IBS 110cc,46500.0,Delhi,3500.0,First Owner,2.0,110.0,Hero
+Royal Enfield Classic Chrome 500cc,121700.0,Kalyan,24520.0,First Owner,5.0,500.0,Royal Enfield
+Yamaha FZ V 2.0 150cc,45000.0,Delhi,23000.0,First Owner,6.0,150.0,Yamaha
+Bajaj Pulsar NS200,78000.0,Bangalore,9900.0,First Owner,4.0,200.0,Bajaj
+Hero Super Splendor 125cc,20000.0,Ahmedabad,29305.0,First Owner,16.0,125.0,Hero
+Honda CBF Stunner 125cc,20800.0,Faridabad,30500.0,Second Owner,7.0,125.0,Honda
+Bajaj Pulsar 150cc,50000.0,Bangalore,19000.0,First Owner,8.0,150.0,Bajaj
+Honda X-Blade 160CC ABS,81200.0,Mettur,9100.0,First Owner,2.0,160.0,Honda
+Bajaj Pulsar NS200,88000.0,Hyderabad,21914.0,First Owner,3.0,200.0,Bajaj
+Yamaha YZF-R15 2.0 150cc,80000.0,Kaithal,20000.0,Second Owner,4.0,150.0,Yamaha
+Bajaj Avenger 220cc,40900.0,Gurgaon,15000.0,First Owner,6.0,220.0,Bajaj
+KTM RC 390cc,180000.0,Pune,17700.0,First Owner,4.0,390.0,KTM
+Honda CB Unicorn 150cc,40000.0,Noida,30000.0,First Owner,8.0,150.0,Honda
+KTM Duke 200cc,70000.0,Nashik,100000.0,Second Owner,8.0,200.0,KTM
+Royal Enfield Classic 350cc,98800.0,Kochi,39000.0,First Owner,5.0,350.0,Royal Enfield
+Honda CBR 150R 150cc,65000.0,Allahabad,43000.0,First Owner,6.0,150.0,Honda
+Royal Enfield Thunderbird X 500cc,190500.0,Samastipur,4550.0,First Owner,2.0,500.0,Royal Enfield
+KTM RC 200cc ABS,179000.0,Bangalore,3400.0,First Owner,2.0,200.0,KTM
+Royal Enfield Thunderbird 350cc,70000.0,Nadiad,45000.0,First Owner,8.0,350.0,Royal Enfield
+Bajaj Avenger 220cc,45000.0,Hyderabad,36100.0,First Owner,6.0,220.0,Bajaj
+Royal Enfield Bullet Electra 350cc,78000.0,Lucknow,8500.0,First Owner,13.0,350.0,Royal Enfield
+Bajaj Avenger Street 220 ABS,110000.0,Bangalore,2550.0,First Owner,2.0,220.0,Bajaj
+Royal Enfield Classic 350cc,85000.0,Delhi,18000.0,First Owner,6.0,350.0,Royal Enfield
+Bajaj Pulsar NS200,38000.0,Delhi,35000.0,First Owner,9.0,200.0,Bajaj
+Royal Enfield Thunderbird 350cc,55346.0,Noida,38000.0,First Owner,10.0,350.0,Royal Enfield
+Mahindra Centuro NXT 110cc,28000.0,Jaipur,45000.0,First Owner,2.0,110.0,Mahindra
+Hero Hunk 150cc,37000.0,Mumbai,10800.0,First Owner,8.0,150.0,Hero
+Suzuki Gixxer SF Fi 150cc SP ABS,97000.0,Delhi,4400.0,First Owner,3.0,150.0,Suzuki
+Yamaha FZ 150cc,40000.0,Karnal,357000.0,First Owner,8.0,150.0,Yamaha
+Royal Enfield‎ Bullet 350cc,90000.0,Delhi,15300.0,First Owner,7.0,350.0,Royal Enfield
+TVS Apache RTR 160cc,60000.0,Mumbai,30000.0,First Owner,5.0,160.0,TVS
+Honda CB Shine 125cc,21900.0,Gorakhpur,30000.0,Second Owner,7.0,125.0,Honda
+Bajaj Avenger 220cc,40000.0,Ahmedabad,64000.0,First Owner,7.0,220.0,Bajaj
+Benelli TNT 600i ABS,475000.0,Mumbai,11500.0,Second Owner,3.0,600.0,Benelli
+Honda Dream Yuga 110cc,34500.0,Ahmedabad,17056.0,First Owner,5.0,110.0,Honda
+Yamaha SZ 150cc,25000.0,Vidisha,172082.0,First Owner,9.0,150.0,Yamaha
+Suzuki Gixxer 150cc,30200.0,Bangalore,45000.0,First Owner,7.0,150.0,Suzuki
+Bajaj Avenger Cruise 220,65000.0,Hosur,35000.0,First Owner,5.0,220.0,Bajaj
+Bajaj Pulsar 150cc,25000.0,Mumbai,38000.0,First Owner,9.0,150.0,Bajaj
+Kawasaki Z900,935000.0,Bagalkot,2500.0,First Owner,2.0,900.0,Kawasaki
+Royal Enfield Bullet Electra 350cc,107100.0,Delhi,15438.0,Second Owner,3.0,350.0,Royal Enfield
+Bajaj Pulsar 220cc,80000.0,Delhi,6000.0,First Owner,3.0,220.0,Bajaj
+Royal Enfield Thunderbird 350cc,88000.0,Delhi,19000.0,First Owner,5.0,350.0,Royal Enfield
+KTM Duke 200cc,94700.0,Baripara,32700.0,First Owner,4.0,200.0,KTM
+Hero CD Deluxe 100cc,12200.0,Agra,46643.0,First Owner,14.0,100.0,Hero
+Royal Enfield Classic 350cc,106000.0,Delhi,19000.0,First Owner,6.0,350.0,Royal Enfield
+Bajaj Pulsar 220cc,29500.0,Hyderabad,40700.0,First Owner,12.0,220.0,Bajaj
+Kawasaki Ninja 650cc,290000.0,Dharwad,11350.0,First Owner,7.0,650.0,Kawasaki
+Royal Enfield Thunderbird 350cc,110000.0,Delhi,1600.0,First Owner,6.0,350.0,Royal Enfield
+Bajaj Platina 125cc,27000.0,Vadodara,44410.0,First Owner,10.0,125.0,Bajaj
+Royal Enfield Thunderbird 350cc,65000.0,Jalandhar,9800.0,First Owner,11.0,350.0,Royal Enfield
+Royal Enfield Thunderbird X 350cc,150000.0,Bangalore,15000.0,First Owner,3.0,350.0,Royal Enfield
+Hero Karizma ZMR 223cc,55786.0,Surat,68000.0,Second Owner,7.0,223.0,Hero
+Bajaj Pulsar 180cc,45000.0,Bangalore,17757.0,First Owner,8.0,180.0,Bajaj
+Yamaha FZ25 ABS 250cc,146000.0,Chennai,3900.0,First Owner,2.0,250.0,Yamaha
+Royal Enfield Thunderbird 350cc,115000.0,Bangalore,23700.0,First Owner,4.0,350.0,Royal Enfield
+Bajaj CT 100 100cc,30000.0,Noida,8250.0,First Owner,3.0,100.0,Bajaj
+Bajaj Pulsar RS200 ABS,93100.0,Mumbai,10000.0,First Owner,5.0,200.0,Bajaj
+Yamaha YZF-R15 2.0 150cc,82000.0,Mumbai,4300.0,Second Owner,3.0,150.0,Yamaha
+Royal Enfield Interceptor 650cc,260000.0,Navi Mumbai,3800.0,First Owner,2.0,650.0,Royal Enfield
+Honda CB Shine 125cc,38000.0,Bangalore,33000.0,First Owner,7.0,125.0,Honda
+KTM Duke 250cc,130000.0,Gandhidham,17500.0,Second Owner,4.0,250.0,KTM
+Royal Enfield Himalayan 410cc,118000.0,Gurgaon,19000.0,First Owner,4.0,410.0,Royal Enfield
+Bajaj Pulsar 135LS,14700.0,Delhi,10000.0,First Owner,11.0,135.0,Bajaj
+Royal Enfield Thunderbird 350cc,85000.0,Chennai,54000.0,First Owner,6.0,350.0,Royal Enfield
+Bajaj Pulsar 220F,40000.0,Mumbai,27000.0,First Owner,7.0,220.0,Bajaj
+Yamaha FZ16 150cc,50000.0,Bangalore,19000.0,First Owner,6.0,150.0,Yamaha
+Royal Enfield Thunderbird 350cc,71800.0,Mumbai,43500.0,First Owner,7.0,350.0,Royal Enfield
+Royal Enfield Thunderbird 350cc,71800.0,Mumbai,43500.0,First Owner,7.0,350.0,Royal Enfield
+Bajaj Pulsar NS200,75000.0,Bangalore,11575.0,First Owner,4.0,200.0,Bajaj
+Ducati Scrambler 1100 Special,1350000.0,Mumbai,190.0,First Owner,1.0,1100.0,Ducati
+Triumph Street Triple 765,790000.0,Mumbai,19000.0,First Owner,3.0,765.0,Triumph
+Bajaj V15 150cc,47000.0,Bangalore,8600.0,First Owner,4.0,150.0,Bajaj
+Bajaj Pulsar 150cc,60000.0,Pune,2000.0,First Owner,2.0,150.0,Bajaj
+Suzuki Gixxer Fi 150cc ABS,96700.0,Vadodara,5100.0,First Owner,1.0,150.0,Suzuki
+Hero Splendor plus 100cc,31900.0,Delhi,9000.0,First Owner,5.0,100.0,Hero
+Bajaj Pulsar 150cc,35000.0,Visakhapatnam,44480.0,First Owner,13.0,150.0,Bajaj
+KTM Duke 390cc,240000.0,Bangalore,11000.0,First Owner,3.0,390.0,KTM
+Honda CBR 250R,68000.0,Delhi,16000.0,First Owner,7.0,250.0,Honda
+Bajaj Pulsar RS200,80000.0,Bangalore,26691.0,First Owner,5.0,200.0,Bajaj
+Royal Enfield Classic 350cc,135000.0,Bangalore,45000.0,First Owner,5.0,350.0,Royal Enfield
+Bajaj Pulsar 150cc,11100.0,Pune,12000.0,Third Owner,12.0,150.0,Bajaj
+Benelli TNT 600i,480000.0,Mumbai,14200.0,First Owner,4.0,600.0,Benelli
+Suzuki Gixxer 150cc SP Rear Disc,65000.0,Thrissur,41000.0,First Owner,3.0,150.0,Suzuki
+Yamaha FZ S V 2.0 150cc,60000.0,Bangalore,15000.0,First Owner,5.0,150.0,Yamaha
+Honda CBR 150R 150cc,80000.0,Bangalore,12314.0,First Owner,4.0,150.0,Honda
+Hero Splendor Plus Self Alloy 100cc,46000.0,Delhi,11760.0,First Owner,3.0,100.0,Hero
+Royal Enfield Classic 500cc,95000.0,Bangalore,22000.0,First Owner,11.0,500.0,Royal Enfield
+Hyosung GT650R,400000.0,Delhi,1800.0,First Owner,4.0,650.0,Hyosung
+Bajaj V15 150cc,55000.0,Bangalore,4400.0,First Owner,4.0,150.0,Bajaj
+Yamaha YZF-R15 S 150cc,63000.0,Delhi,16000.0,First Owner,5.0,150.0,Yamaha
+Bajaj V15 150cc,51000.0,Faridabad,9000.0,First Owner,4.0,150.0,Bajaj
+TVS Apache RTR 160 4V Disc,69900.0,Delhi,8700.0,First Owner,3.0,160.0,TVS
+Bajaj Pulsar RS200 ABS,125000.0,Gorakhpur,1342.0,First Owner,4.0,200.0,Bajaj
+Benelli TNT 300,210000.0,Kolkata,21000.0,First Owner,6.0,300.0,Benelli
+Honda CB ShineSP 125cc,35900.0,Delhi,19000.0,First Owner,5.0,125.0,Honda
+Honda CBR 250R,67000.0,Delhi,13000.0,First Owner,9.0,250.0,Honda
+Hero Passion Pro 100cc,29339.0,Ernakulam,12771.0,First Owner,4.0,100.0,Hero
+Hero Splendor Plus 100cc,19695.0,Ernakulam,51576.0,First Owner,6.0,100.0,Hero
+Hero Splendor iSmart Plus IBS 110cc,48672.0,Ernakulam,608.0,First Owner,2.0,110.0,Hero
+Honda CBR 150R 150cc,40000.0,Mumbai,13680.0,First Owner,9.0,150.0,Honda
+Yamaha YZF R6 600cc,500000.0,Bangalore,285.0,First Owner,5.0,600.0,Yamaha
+Ducati 1299 Superleggera,800000.0,Mumbai,3.0,First Owner,3.0,1299.0,Ducati
+Royal Enfield Himalayan 410cc,110000.0,Bangalore,24676.0,First Owner,5.0,410.0,Royal Enfield
+Royal Enfield Classic 350cc,92500.0,Delhi,11000.0,First Owner,6.0,350.0,Royal Enfield
+Bajaj Pulsar NS200,57000.0,Bangalore,28948.0,First Owner,5.0,200.0,Bajaj
+Royal Enfield Electra 350cc,72500.0,Delhi,10000.0,First Owner,10.0,350.0,Royal Enfield
+KTM Duke 200cc,68000.0,Delhi,16000.0,First Owner,9.0,200.0,KTM
+TVS Phoenix Disc 125cc,21500.0,Barasat,10500.0,First Owner,5.0,125.0,TVS
+TVS Apache RTR 160cc,40000.0,Delhi,20000.0,First Owner,6.0,160.0,TVS
+Royal Enfield Classic 350cc,91000.0,Delhi,18000.0,First Owner,5.0,350.0,Royal Enfield
+Harley-Davidson Street 750,300000.0,Ghaziabad,3500.0,First Owner,6.0,750.0,Harley-Davidson
+Suzuki Gixxer SF 150cc,47000.0,Jaipur,70000.0,First Owner,6.0,150.0,Suzuki
+Suzuki Gixxer 150cc,53000.0,Bangalore,18158.0,First Owner,6.0,150.0,Suzuki
+Suzuki Gixxer 150cc,51000.0,Bangalore,39140.0,First Owner,5.0,150.0,Suzuki
+Bajaj Pulsar 220F,48000.0,Bangalore,27776.0,First Owner,8.0,220.0,Bajaj
+Bajaj Pulsar 220cc,55000.0,Bangalore,32734.0,First Owner,6.0,220.0,Bajaj
+Royal Enfield Himalayan 410cc Fi ABS,173300.0,Vadodara,14000.0,First Owner,2.0,410.0,Royal Enfield
+Royal Enfield Bullet Electra 350cc,77000.0,Delhi,13000.0,First Owner,8.0,350.0,Royal Enfield
+Bajaj Pulsar NS200,115000.0,Bangalore,5000.0,First Owner,2.0,200.0,Bajaj
+Bajaj Discover 150cc,36000.0,Hyderabad,39500.0,First Owner,7.0,150.0,Bajaj
+Bajaj Avenger Street 220,72000.0,Hyderabad,29500.0,First Owner,4.0,220.0,Bajaj
+Royal Enfield Standard 350cc,115000.0,Hyderabad,14900.0,First Owner,3.0,350.0,Royal Enfield
+Honda CB Shine 125cc Disc,65000.0,Mumbai,2000.0,First Owner,3.0,125.0,Honda
+Honda CB Unicorn ABS 150cc,99000.0,Mumbai,4000.0,First Owner,2.0,150.0,Honda
+Yamaha YZF-R15 2.0 150cc,68500.0,Delhi,68500.0,Second Owner,7.0,150.0,Yamaha
+Yamaha YZF-R15 V3 150cc,140000.0,Delhi,2473.0,First Owner,2.0,150.0,Yamaha

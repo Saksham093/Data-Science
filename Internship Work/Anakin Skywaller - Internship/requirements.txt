@@ -1,0 +1,5 @@
+selenium
+bs4
+requests
+pandas
+selenium-wire
