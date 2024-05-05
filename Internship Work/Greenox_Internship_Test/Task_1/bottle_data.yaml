@@ -1,0 +1,15 @@
+# YOLOv5 🚀 Model on Bottle_Data by M.SAKSHAM
+
+# Paths
+train: /content/gdrive/MyDrive/Greenox/Bottle_Data/train/images  # train images path to 11,978 images
+val: /content/gdrive/MyDrive/Greenox/Bottle_Data/valid/images  # valid images path to 3,721 images
+
+# Classes
+nc: 6  # number of classes
+names:
+  0: pet_bottle
+  1: wine_bottle
+  2: beer_bottle
+  3: aluminium_can
+  4: barcode
+  5: tetrapack
