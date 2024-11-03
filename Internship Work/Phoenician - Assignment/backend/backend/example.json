@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Project Alpha",
+      "description": "Description of Project Alpha",
+      "details": [
+        {
+          "title": "Phase 1",
+          "items": [
+            { "title": "Task A1", "subitems": ["Subtask A1.1", "Subtask A1.2"] },
+            { "title": "Task A2", "subitems": ["Subtask A2.1", "Subtask A2.2"] }
+          ]
+        }
+      ]
+    }
+  ]
+  

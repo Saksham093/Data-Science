@@ -1,0 +1,22 @@
+/* src/components/Breadcrumbs.css */
+
+.breadcrumbs {
+  display: inline-flex;
+  align-items: center;
+  font-size: 1rem;
+  color: #333;
+}
+
+.breadcrumbs a {
+  color: #007bff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumbs span {
+  margin: 0 0.3em;
+}

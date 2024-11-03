@@ -1,0 +1,120 @@
+/* src/pages/ProjectDetailPage.css */
+
+.project-detail-page {
+  padding: 80px 40px 40px; /* adjust for fixed navbar */
+  background-color: #f9f9f9;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.project-detail-main {
+  display: flex;
+  gap: 30px;
+}
+
+.project-info {
+  flex: 1;
+}
+
+.info-table td {
+  padding: 5px 0;
+  
+}
+
+.project-image {
+  flex: 1;
+}
+
+.project-image img {
+  width: 80%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #333;
+  margin-top: 40px;
+}
+
+.summary-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.summary-table th,
+.summary-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.summary-table th {
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
+}
+
+.view-items-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.view-items-button:hover {
+  background-color: #0056b3;
+}
+
+
+.project-detail-page {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  color: #333;
+}
+
+.project-detail-main {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.info-table, .summary-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.info-table td, .summary-table th, .summary-table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+.summary-table th {
+  background-color: #007bff;
+  text-align: left;
+  font-weight: bold;
+}
+
+.summary-table tr:hover {
+  background-color: #f1f1f1;
+}
+
+.view-items-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.view-items-button:hover {
+  background-color: #0056b3;
+}

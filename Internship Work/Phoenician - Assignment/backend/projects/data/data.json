@@ -1,0 +1,4358 @@
+[
+    {
+        "ITEM":"1",
+        "DESCRIPTION":"BILL NO. 1 - PRELIMINARIES",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.1",
+        "DESCRIPTION":"GENERAL REQUIREMENTS",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.1.1",
+        "DESCRIPTION":"General notes on preliminaries",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.1.1.1",
+        "DESCRIPTION":"these preliminaries are applicable to the whole of the works and associated works. each clause or sub clause must be individually priced. the tenderer shall not enter any lump sums covering more than one or all items, clauses or sub- clauses. where any item, clause or sub-clause of the preliminaries not been priced, it will be deemed that the value of such item, clause or sub-clause is included in the rates for measured item elsewhere in the bill of quantities.",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"2,030,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2",
+        "DESCRIPTION":"conditions of contract",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.1",
+        "DESCRIPTION":"Specifications",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.1.1",
+        "DESCRIPTION":"the contractor shall describe and list at the end of this bill under additional items below, any obligations contained in specifications, for which he has not allowed elsewhere and wishes to price separately",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.2",
+        "DESCRIPTION":"Drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.2.1",
+        "DESCRIPTION":"the contractor shall describe and list at the end of this bill under additional items below, any obligations contained in drawings for which he has not allowed elsewhere and wishes to price separately",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.3",
+        "DESCRIPTION":"Form of agreement",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.3.1",
+        "DESCRIPTION":"the contractor shall describe and list at the end of this bill under additional items below, any obligations contained in form of agreement for which he has not allowed elsewhere and wishes to price separately",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.4",
+        "DESCRIPTION":"Form of tender",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.4.1",
+        "DESCRIPTION":"the contractor shall describe and list at the end of this bill under additional items below, any obligations contained in form of tender and appendices for which he has not allowed elsewhere and wishes to price separately",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.5",
+        "DESCRIPTION":"Bill of Quantities",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.5.1",
+        "DESCRIPTION":"the contractor shall describe and list at the end of this bill under additional items below, any obligations contained in bill of quantities for which he has not allowed elsewhere and wishes to price separately",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.6",
+        "DESCRIPTION":"Conditions of Contract",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.6.1",
+        "DESCRIPTION":"the contractor to list and price for all costs associated with compliance with the conditions of contract and not covered elsewhere (details to be provided)",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.6.1.1",
+        "DESCRIPTION":"1",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.6.1.2",
+        "DESCRIPTION":"2",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.6.1.3",
+        "DESCRIPTION":"3",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3",
+        "DESCRIPTION":"GENERAL OBLIGATIONS",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.1",
+        "DESCRIPTION":"Performance Security",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.1.1",
+        "DESCRIPTION":"performance security in accordance with conditions of contract",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.2",
+        "DESCRIPTION":"Workmen's Insurances",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.2.1",
+        "DESCRIPTION":"workmen's compensation insurance in accordance with conditions of contract",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.3",
+        "DESCRIPTION":"Professional Indemnity Insurance",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.3.1",
+        "DESCRIPTION":"professional indemnity insurance in accordance with conditions of contract",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Not Applicable",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.4",
+        "DESCRIPTION":"Shop Drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.4.1",
+        "DESCRIPTION":"the contractor shall provide shop drawings as specified",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.5",
+        "DESCRIPTION":"As-Built Drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.5.1",
+        "DESCRIPTION":"allow for providing \"as built\" (as specified and in the format required by the engineer) drawings and maintenance and operation manuals in hard and soft formats",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.6",
+        "DESCRIPTION":"Spares",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.6.1",
+        "DESCRIPTION":"the contractor shall allow for the supply only spares as required in the specifications",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.7",
+        "DESCRIPTION":"Warranties",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.7.1",
+        "DESCRIPTION":"the contractor shall allow for warranties as required in the specifications",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.8",
+        "DESCRIPTION":"Samples",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.8.1",
+        "DESCRIPTION":"the contractor shall allow for samples as required in the specifications",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.4",
+        "DESCRIPTION":"CONTRACTORS ADMINISTRATIVE ARRANGEMENTS",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.4.1",
+        "DESCRIPTION":"Site Administration",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.4.1.1",
+        "DESCRIPTION":"the contractor shall provide sufficient staff and equipment to perform the administrative duties in executing the contract.",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.5",
+        "DESCRIPTION":"CONTRACTORS FACILITIES",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.5.1",
+        "DESCRIPTION":"Accommodation and Buildings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.5.1.1",
+        "DESCRIPTION":"the contractor is to include\/ allow for providing the following facilities at site, maintaining for the duration of the work, clearing away on completion and making good. (suitable land area only shall be provided by the main work contractor)",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.5.1.2",
+        "DESCRIPTION":"all site facilities and accommodation together with all necessary temporary utilities services, furniture, lighting\/ power, car ports, it networks, computer hard and software, material storage, workshops and the like",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.5.2",
+        "DESCRIPTION":"Labour Camp",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.5.2.1",
+        "DESCRIPTION":"a labour camp is not permitted on site.",
+        "QUANTITY":null,
+        "UNIT":"Note",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.6",
+        "DESCRIPTION":"ADDITIONAL ITEMS",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.6.1",
+        "DESCRIPTION":"The tenderer is to list here below any additional items, shown on the drawings mentioned in the specifications or required for the satisfactory completion of this section but not mentioned herein, any items not listed below shall be deemed to be included.",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.6.1.1",
+        "DESCRIPTION":"2) TSE water during defect liability period",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":"Shall pe paid based on actual works done, remeassured on daily basis according to the quantity of water delivered to site (water tankers) man powers, actual cost of establishment of facility (pumps, tanks), generator, diesel, others"
+    },
+    {
+        "ITEM":"1.6.1.2",
+        "DESCRIPTION":"3) Engineer facilities",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.6.1.2.1",
+        "DESCRIPTION":"Establishment of Engineers Facility (2 Caravan)",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":"90,000.00",
+        "TOTAL PRICE (AED)":"90,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.6.1.2.2",
+        "DESCRIPTION":"Maintenance of Engineers Facility",
+        "QUANTITY":"180.0",
+        "UNIT":"Days",
+        "UNIT PRICE(AED)":"125.00",
+        "TOTAL PRICE (AED)":"22,500.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"TOTAL AMOUNT FOR GENERAL REQUIREMENTS",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"2,142,500.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.4",
+        "DESCRIPTION":"shrubs",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.4.1",
+        "DESCRIPTION":"Ref. Cae. Pul, Caesalpinia pulcherrima",
+        "QUANTITY":"1,694.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"25.0",
+        "TOTAL PRICE (AED)":"42,350.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.4.2",
+        "DESCRIPTION":"Ref. SCA.FRU, Scaevola Frutescens",
+        "QUANTITY":"767.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"21.0",
+        "TOTAL PRICE (AED)":"16,107.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.4.3",
+        "DESCRIPTION":"Ref. Bou.red, Bougainvillea glabra red",
+        "QUANTITY":"6,657.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"25.0",
+        "TOTAL PRICE (AED)":"166,425.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.4.4",
+        "DESCRIPTION":"Ref. Bou.yel, Bougainvillea glabra yellow",
+        "QUANTITY":"1,748.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"32.0",
+        "TOTAL PRICE (AED)":"55,936.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.4.5",
+        "DESCRIPTION":"Ref. Bou.whi, Bougainvillea glabra white",
+        "QUANTITY":"2,803.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"25.0",
+        "TOTAL PRICE (AED)":"70,075.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.4.6",
+        "DESCRIPTION":"Ref. Jat.int, Jatropha intergerrima",
+        "QUANTITY":"2,720.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"32.0",
+        "TOTAL PRICE (AED)":"87,040.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.4.7",
+        "DESCRIPTION":"Ref. Vit.cas, Vitex agnus-castus",
+        "QUANTITY":"4,926.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"20.0",
+        "TOTAL PRICE (AED)":"98,520.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.4.8",
+        "DESCRIPTION":"Ref. Tec.sta, Tecoma stans",
+        "QUANTITY":"8,192.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"32.0",
+        "TOTAL PRICE (AED)":"262,144.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.4.9",
+        "DESCRIPTION":"Ref. Cle.ine, Clerodendron inerme",
+        "QUANTITY":"509.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"20.0",
+        "TOTAL PRICE (AED)":"10,180.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.4.10",
+        "DESCRIPTION":"Ref. Dod.vis, Dodonaea viscosa",
+        "QUANTITY":"24.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"20.0",
+        "TOTAL PRICE (AED)":"480.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.5",
+        "DESCRIPTION":"Ground Covering",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.5.1",
+        "DESCRIPTION":"Ref. Car.gra, Carissa grandiflora",
+        "QUANTITY":"344.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"67.0",
+        "TOTAL PRICE (AED)":"23,048.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.5.2",
+        "DESCRIPTION":"Ref. Gaz.rig, Gazania rigens",
+        "QUANTITY":"260.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"67.0",
+        "TOTAL PRICE (AED)":"17,420.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.5.3",
+        "DESCRIPTION":"Ref. Ses.por, Sesuvium portulacastrum",
+        "QUANTITY":"663.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"55.0",
+        "TOTAL PRICE (AED)":"36,465.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.5.4",
+        "DESCRIPTION":"Ref. Wed.tri, Wedelia trilobata",
+        "QUANTITY":"546.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"66.0",
+        "TOTAL PRICE (AED)":"36,036.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.5.5",
+        "DESCRIPTION":"Ref. Pen,set, Pennisetum setaceum",
+        "QUANTITY":"1,524.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"67.0",
+        "TOTAL PRICE (AED)":"102,108.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.5.6",
+        "DESCRIPTION":"Ref. Pen.rub, Pennisetum setaceum \"Rubrum\"",
+        "QUANTITY":"1,146.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"67.0",
+        "TOTAL PRICE (AED)":"76,782.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.5.7",
+        "DESCRIPTION":"Ref. Lam.ros, Lampranthus roseus",
+        "QUANTITY":"180.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"67.0",
+        "TOTAL PRICE (AED)":"12,060.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.5.8",
+        "DESCRIPTION":"Ref. Rue.squ, Ruellia squarrosa",
+        "QUANTITY":"702.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"67.0",
+        "TOTAL PRICE (AED)":"47,034.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.5.9",
+        "DESCRIPTION":"Ref. Rue.equ, Russelia equisetiformis",
+        "QUANTITY":"468.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"72.0",
+        "TOTAL PRICE (AED)":"33,696.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.5.10",
+        "DESCRIPTION":"Ref. Tra.pal, Tradescantia pallida",
+        "QUANTITY":"55.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"67.0",
+        "TOTAL PRICE (AED)":"3,685.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.5.11",
+        "DESCRIPTION":"Ref. Sea, Seasonal flower",
+        "QUANTITY":"538.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"66.0",
+        "TOTAL PRICE (AED)":"35,508.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.6",
+        "DESCRIPTION":"lawn",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.6.1",
+        "DESCRIPTION":"Paspalum vaginatum",
+        "QUANTITY":"225.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"40.0",
+        "TOTAL PRICE (AED)":"9,000.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.5",
+        "DESCRIPTION":"IRRIGATION WORKS",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1",
+        "DESCRIPTION":"Mainline Irrigation",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.1",
+        "DESCRIPTION":"Irrigation UPVC pipe work, complete as per specification and drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.1.1",
+        "DESCRIPTION":"2\" uPVC Pipe Class D",
+        "QUANTITY":"3.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"27.0",
+        "TOTAL PRICE (AED)":"81.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.1.1.1.3)"
+    },
+    {
+        "ITEM":"2.5.1.1.2",
+        "DESCRIPTION":"3\" uPVC Pipe Class E",
+        "QUANTITY":"185.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"37.0",
+        "TOTAL PRICE (AED)":"6,845.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.1.1.1.4)"
+    },
+    {
+        "ITEM":"2.5.1.1.3",
+        "DESCRIPTION":"4\" uPVC Pipe Class D",
+        "QUANTITY":"917.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"52.0",
+        "TOTAL PRICE (AED)":"47,684.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.2",
+        "DESCRIPTION":"Irrigation conduit pipe work, complete as per specification and drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.2.1",
+        "DESCRIPTION":"1\" conduit pipe (with two-wire decoder wire)",
+        "QUANTITY":"1,799.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"37.2",
+        "TOTAL PRICE (AED)":"66,922.80",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.4.2.1.1 + 7.4.2.1.2)"
+    },
+    {
+        "ITEM":"2.5.1.3",
+        "DESCRIPTION":"Irrigation Proposed uPVC Duct for conduits, complete as per specification and drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.3.1",
+        "DESCRIPTION":"2x150 Proposed uPVC Duct",
+        "QUANTITY":"229.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"102.0",
+        "TOTAL PRICE (AED)":"23,358.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.3.2",
+        "DESCRIPTION":"1x200 Proposed uPVC Duct",
+        "QUANTITY":"72.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"84.0",
+        "TOTAL PRICE (AED)":"6,048.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.4",
+        "DESCRIPTION":"Valves and accessories, complete as per specification and drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.4.1",
+        "DESCRIPTION":"Solenoid valve-drip",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.4.1.1",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 1",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.2",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 2",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.3",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 3",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.4",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 4",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.5",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 4a",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.6",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 5",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.7",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 6",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.8",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 8",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.9",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 9",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.10",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 10",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.11",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 11",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.12",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 12",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.13",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 13",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.14",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 14, Flow 1.82 LPS",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.15",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 14, Flow 1.92 LPS",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.16",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 15",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.17",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 16",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.18",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 17",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.19",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 18",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.20",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 19",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.0",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.21",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 20",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.00",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.22",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 21",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.00",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.23",
+        "DESCRIPTION":"1.5\" diameter, ref. DV 22",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.00",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.24",
+        "DESCRIPTION":"1.5\" diameter, ref. S04",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.00",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.25",
+        "DESCRIPTION":"1.5\" diameter, ref. S05",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.00",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.1.26",
+        "DESCRIPTION":"1.5\" diameter, ref. S06",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"927.00",
+        "TOTAL PRICE (AED)":"927.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.2.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.2",
+        "DESCRIPTION":"Pop - up spray",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.4.2.1",
+        "DESCRIPTION":"3nos. 3\/4 Circle Pop-up sprays\/sprinklers",
+        "QUANTITY":"2,607.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"34.00",
+        "TOTAL PRICE (AED)":"88,638.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.1.3.1.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.3",
+        "DESCRIPTION":"valves",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.4.3.1",
+        "DESCRIPTION":"air release valve",
+        "QUANTITY":"2.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"2,618.00",
+        "TOTAL PRICE (AED)":"5,236.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.4.3.2",
+        "DESCRIPTION":"Quick Coupler Valve",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"346.00",
+        "TOTAL PRICE (AED)":"346.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.2.1.1.1)"
+    },
+    {
+        "ITEM":"2.5.1.4.3.3",
+        "DESCRIPTION":"Isolation gate valve on \u00d8 3 inch uPVC",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"7,613.00",
+        "TOTAL PRICE (AED)":"7,613.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.4.3.4",
+        "DESCRIPTION":"Isolation gate valve on \u00d8 4 inch uPVC",
+        "QUANTITY":"3.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"7,794.00",
+        "TOTAL PRICE (AED)":"23,382.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.5",
+        "DESCRIPTION":"Connections and accessories, complete as per specification and drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.5.1",
+        "DESCRIPTION":"Duperseeded building MEP connection point (\u00d81 inch uPVC)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"1,505.00",
+        "TOTAL PRICE (AED)":"1,505.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.5.2",
+        "DESCRIPTION":"Duperseeded building MEP connection point (\u00d82 inch uPVC)",
+        "QUANTITY":"2.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"3,009.00",
+        "TOTAL PRICE (AED)":"6,018.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.5.3",
+        "DESCRIPTION":"Duperseeded building MEP connection point (\u00d83 inch uPVC)",
+        "QUANTITY":"4.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"3,852.00",
+        "TOTAL PRICE (AED)":"15,408.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.5.4",
+        "DESCRIPTION":"Duperseeded building MEP connection point (\u00d83 inch uPVC)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"3,852.00",
+        "TOTAL PRICE (AED)":"3,852.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.5.5",
+        "DESCRIPTION":"Building MEP connection point (\u00d82 inch uPVC)",
+        "QUANTITY":"2.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"3,009.00",
+        "TOTAL PRICE (AED)":"6,018.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.5.6",
+        "DESCRIPTION":"Building MEP connection point (\u00d83 inch uPVC)",
+        "QUANTITY":"4.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"3,009.00",
+        "TOTAL PRICE (AED)":"12,036.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.5.7",
+        "DESCRIPTION":"TSE-Connection point (Proposed Tie-In connection to existing TSE infra network)",
+        "QUANTITY":"2.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"18,656.00",
+        "TOTAL PRICE (AED)":"37,312.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.6",
+        "DESCRIPTION":"Drip Irrigation pipe work, complete as per specification and drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.6.1",
+        "DESCRIPTION":"Drip Irrigation pipe - Palm",
+        "QUANTITY":"738.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"6.00",
+        "TOTAL PRICE (AED)":"4,428.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.6.2",
+        "DESCRIPTION":"Drip Irrigation pipe - Trees",
+        "QUANTITY":"3,650.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"6.00",
+        "TOTAL PRICE (AED)":"21,900.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.6.3",
+        "DESCRIPTION":"Drip Irrigation pipe - Mass shrubs",
+        "QUANTITY":"450.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"6.00",
+        "TOTAL PRICE (AED)":"2,700.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.6.4",
+        "DESCRIPTION":"Drip Irrigation pipe - Groundcovers",
+        "QUANTITY":"12,849.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"6.00",
+        "TOTAL PRICE (AED)":"77,094.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.6.5",
+        "DESCRIPTION":"Drip Irrigation pipe - Succulents",
+        "QUANTITY":"380.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"6.00",
+        "TOTAL PRICE (AED)":"2,280.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.7",
+        "DESCRIPTION":"GPM Bubller & LPH PC Emitter in-line drip tube",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.7.1",
+        "DESCRIPTION":"2nos. x 0.5 GPM Bubller and 1 nos x 0.5GPM for Small palm",
+        "QUANTITY":"150.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"41.00",
+        "TOTAL PRICE (AED)":"6,150.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.7.2",
+        "DESCRIPTION":"20nos x 3.8 LPH PC Emitter in-line drip per tree",
+        "QUANTITY":"940.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"22.10",
+        "TOTAL PRICE (AED)":"20,774.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.7.3",
+        "DESCRIPTION":"14nos x 3.8 LPH PC Emitter in-line drip per tree",
+        "QUANTITY":"12,166.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"15.80",
+        "TOTAL PRICE (AED)":"192,222.80",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.7.4",
+        "DESCRIPTION":"4nos x 2.3 LPH PC Emitter in-line drip per plant",
+        "QUANTITY":"760.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"8.80",
+        "TOTAL PRICE (AED)":"6,688.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.7.5",
+        "DESCRIPTION":"2nos x 3.8 LPH PC Emitter in-line drip per plant",
+        "QUANTITY":"60,080.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"5.30",
+        "TOTAL PRICE (AED)":"318,424.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.7.6",
+        "DESCRIPTION":"4nos x 2.3 LPH PC Emitter in-line drip per sqm",
+        "QUANTITY":"22,300.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"8.80",
+        "TOTAL PRICE (AED)":"196,240.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.7.7",
+        "DESCRIPTION":"11nos x 2.3 LPH PC Emitter in-line drip per sqm",
+        "QUANTITY":"5,913.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"21.00",
+        "TOTAL PRICE (AED)":"124,173.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.7.8",
+        "DESCRIPTION":"4nos x 3.8 LPH PC Emitter in-line drip per sqm",
+        "QUANTITY":"899.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"8.80",
+        "TOTAL PRICE (AED)":"7,911.20",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.8",
+        "DESCRIPTION":"Drain point",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.8.1",
+        "DESCRIPTION":"Drain point (In irrg. Auto- drip hydrozone - Potable water)",
+        "QUANTITY":"30.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"31.00",
+        "TOTAL PRICE (AED)":"930.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.8.2",
+        "DESCRIPTION":"Drain point (In irrg. Auto- drip hydrozone - TSE water)",
+        "QUANTITY":"16.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"31.00",
+        "TOTAL PRICE (AED)":"496.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.9",
+        "DESCRIPTION":"equipment",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.9.1",
+        "DESCRIPTION":"Supply and installation of Irrg. decoder & Station, all in accordance with the specifications and drawings.",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.9.1.1",
+        "DESCRIPTION":"Prop. Irrigation decoder controller - A",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"32,815.00",
+        "TOTAL PRICE (AED)":"32,815.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.4.1.1.1)"
+    },
+    {
+        "ITEM":"2.5.1.9.1.2",
+        "DESCRIPTION":"Single station decoder",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"62,588.00",
+        "TOTAL PRICE (AED)":"62,588.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.10",
+        "DESCRIPTION":"Cables\/Wirings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.10.1",
+        "DESCRIPTION":"Supply and installation of cables\/wirings; complete with conduits, wire boxes, fittings, including supports and accessories all in accordance with the drawing and specification",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":"105,202.00",
+        "TOTAL PRICE (AED)":"105,202.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.11",
+        "DESCRIPTION":"fixtures",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.5.1.11.1",
+        "DESCRIPTION":"Supply and installation of outdoor shower fixtures, all in accordance with the specifications and drawings.",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":"Including excavation, foundation, concrete block wall, plaster, water proofing,  wall fittings, embedded pipes on the wall, and gully trap"
+    },
+    {
+        "ITEM":"2.5.1.11.1.1",
+        "DESCRIPTION":"Outdoor Shower set including adjastable shower head, 2No. Of push returnable valve and Foot wash",
+        "QUANTITY":"12.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"37,000.00",
+        "TOTAL PRICE (AED)":"444,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.6",
+        "DESCRIPTION":"DRAINAGE SPECIALITIES",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.6.1",
+        "DESCRIPTION":"Supply and installation of drinage slotted drains, all in accordance with the specifications and drawings.",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.6.1.1",
+        "DESCRIPTION":"Slotted drain sand trap catch basin size, 1000mm L X 140mm W",
+        "QUANTITY":"12.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"1,500.00",
+        "TOTAL PRICE (AED)":"18,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.7",
+        "DESCRIPTION":"ADDITIONAL  SCOPE",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.7.1.1",
+        "DESCRIPTION":"Supply and Finishes of Amphitheatre as per detail LS-342 including handrail and tents (Exluding any Earthworks and Civil Works)",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"EXCLUDED",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.7.1.3",
+        "DESCRIPTION":"Sunken Cabanas as per detail LS-328 including Tents; Diameter: 5 Meters",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"163,704.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"GRANITE COPING 300MM-Width x 30MM THICK WITH BEVELED NOSE, COLOR LIGHT BEIGE.",
+        "QUANTITY":"24.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"PORCELAIN TILES TREAD; SIZE (MM): 600X300; THICKNESS (MM): 20COLOR MEDIUM BEIGE NOON \/ DAYLIGHT NN 01, WOOD FINISH OR GREATER SLIP RESISTANCE",
+        "QUANTITY":"12.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"PORCELAIN TILES RISERSIZE (MM): 600X300; THICKNESS (MM): 20COLOR MEDIUM BEIGE NOON \/ DAYLIGHT NN 01, WOOD FINISH OR GREATER SLIP RESISTANCE",
+        "QUANTITY":"6.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"PV-09 PORCELAIN PAVING SLABS 300 X 1200 MM COLOR MEDIUM BEIGE NOON \/ DAYLIGHT NN 01, WOOD FINISH OR GREATER SLIP RESISTANCE. (FLOOR AND SEAT TREAD)",
+        "QUANTITY":"60.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"PV-09 PORCELAIN PAVING SLABS 300 X 1200 MM COLOR MEDIUM BEIGE NOON \/ DAYLIGHT NN 01, WOOD FINISH OR GREATER SLIP RESISTANCE. (SEAT RISERS)",
+        "QUANTITY":"30.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"PV-03 COMPOSITE BOARDS",
+        "QUANTITY":"12.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"CEMENTIOUS WATER PROOFING & PLASTER",
+        "QUANTITY":"160.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.7.1.4",
+        "DESCRIPTION":"Construction of Bridge as per drawing LS329Length = 28 Meters x Wisth = 5 Meters with concrete structure and WPC Decking and Handrail on  Both Sides",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"282,272.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"Reinforced Concrete for bridge structure complete with steel reinforcement including excavation",
+        "QUANTITY":"52",
+        "UNIT":"m3",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"PV - 03 COMPOSITE WPC DECKING 3000x140 X 25 MM. COLOR - English Walnut Colour, Timber Look, Grooved, Grinded.",
+        "QUANTITY":"131",
+        "UNIT":"m2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"MARINE GRADE ALUMINUM EDGING ANGLE 4 - 5 MM THICK 170 X 80 MM MILL FINISH",
+        "QUANTITY":"56",
+        "UNIT":"lm",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"Handrail",
+        "QUANTITY":"56",
+        "UNIT":"lm",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"Water proofing to RCC concrete",
+        "QUANTITY":"320",
+        "UNIT":"m2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"Plaster and Render Paint to Bridge  exposed RCC concrete",
+        "QUANTITY":"107.2",
+        "UNIT":"m2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.7.1.7.1",
+        "DESCRIPTION":"Construction of RCC Retaning Walls with excavation works.(For areas outside basement zone\/ parking area)",
+        "QUANTITY":"500.0",
+        "UNIT":"m3",
+        "UNIT PRICE(AED)":"1,000.00",
+        "TOTAL PRICE (AED)":"500,000.00",
+        "REMARKS":"PROVISIONAL QUANTITY"
+    },
+    {
+        "ITEM":"2.7.1.7.2",
+        "DESCRIPTION":"Render Paint Finish to walls (For areas outside basement zone\/ parking area)",
+        "QUANTITY":"1,000.0",
+        "UNIT":"m2",
+        "UNIT PRICE(AED)":"200.00",
+        "TOTAL PRICE (AED)":"EXCLUDED",
+        "REMARKS":"PROVISIONAL QUANTITY"
+    },
+    {
+        "ITEM":"2.7.1.10",
+        "DESCRIPTION":"Sub Surface Drainage System Under the Lagoon as shown on the drawing 21010700-00-00-C3500 Rev A",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.7.1.10.1",
+        "DESCRIPTION":"Drainage perforated Pipe 200mm",
+        "QUANTITY":"871.0",
+        "UNIT":"Meters",
+        "UNIT PRICE(AED)":"365.00",
+        "TOTAL PRICE (AED)":"317,915.00",
+        "REMARKS":"Including excavation & backfilling works, geotextile and granular materials around the pipes"
+    },
+    {
+        "ITEM":"2.7.1.10.2",
+        "DESCRIPTION":"Drainage Equal Tee 200mm diameter",
+        "QUANTITY":"10.0",
+        "UNIT":"Nos",
+        "UNIT PRICE(AED)":"435.50",
+        "TOTAL PRICE (AED)":"4,355.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.7.1.11",
+        "DESCRIPTION":"TSE Water during construction",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":"240,000.00",
+        "TOTAL PRICE (AED)":"240,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3",
+        "DESCRIPTION":"BILL NO. 3 - BUILDINGS",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1",
+        "DESCRIPTION":"CLUBHOUSE",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.1",
+        "DESCRIPTION":"Hardscape",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.1.1",
+        "DESCRIPTION":"Paving & Surfacing",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.1.1.1",
+        "DESCRIPTION":"Supply and lay various paving and surfacing, including adhesive, screed, grouting, and all accessories, complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.1.1.1.1",
+        "DESCRIPTION":"Ref. PV-09, Noon porcelain tiles, medium beige, wood finish, size 300mm x 1200mm x 20mm thick",
+        "QUANTITY":"328.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"280.00",
+        "TOTAL PRICE (AED)":"91,840.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.1.1.1.2",
+        "DESCRIPTION":"Ref. PV-18, Silver lake porcelain tiles, beige, size 600mm x 600mm x 20mm thick",
+        "QUANTITY":"661.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"394.00",
+        "TOTAL PRICE (AED)":"260,434.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.1.1.1.3",
+        "DESCRIPTION":"Ref. PV-19, Silver lake porcelain tiles, light grey, size 600mm x 1200mm x 20mm thick",
+        "QUANTITY":"184.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"418.00",
+        "TOTAL PRICE (AED)":"76,912.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.1.1.1.4",
+        "DESCRIPTION":"Ref. PV-20, Silver lake porcelain tiles, medium grey, size 600mm x 1200mm x 20mm thick",
+        "QUANTITY":"365.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"418.00",
+        "TOTAL PRICE (AED)":"152,570.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.1.2",
+        "DESCRIPTION":"Landscape Furniture",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.1.2.1",
+        "DESCRIPTION":"Supply and install landscape furniture, complete; all in accordance with the drawings Nos. LS401-LS411 and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.1.2.1.1",
+        "DESCRIPTION":"Ref. F-11, planters",
+        "QUANTITY":"19.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"13,600.00",
+        "TOTAL PRICE (AED)":"258,400.00",
+        "REMARKS":"Same as per Note 1 above"
+    },
+    {
+        "ITEM":"3.1.2",
+        "DESCRIPTION":"Softscape",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.2.1",
+        "DESCRIPTION":"Plants",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.2.1.1",
+        "DESCRIPTION":"Supply and install plants, trees, shrubs, etc....including tree grate, approved fertilizers, excavate pits, geotextile and refill with planting soil after planting as per detail in accordance with Landscape Specifications, to the approval of the Engineer (The contractor should irrigate all the plants up to handing over)",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.2.1.1.1",
+        "DESCRIPTION":"trees",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.2.1.1.1.1",
+        "DESCRIPTION":"Ref. Cor, Cordia sebestena",
+        "QUANTITY":"2.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"749.00",
+        "TOTAL PRICE (AED)":"1,498.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.2.1.1.1.2",
+        "DESCRIPTION":"Ref. Plu, Plumeria obtusa",
+        "QUANTITY":"12.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"2,850.00",
+        "TOTAL PRICE (AED)":"34,200.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.2.1.1.1.3",
+        "DESCRIPTION":"Ref. Tab, Tabebuia rosea",
+        "QUANTITY":"10.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"915.00",
+        "TOTAL PRICE (AED)":"9,150.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.2.1.1.1.4",
+        "DESCRIPTION":"Ref. Ole, Olea europaea",
+        "QUANTITY":"9.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"2,150.00",
+        "TOTAL PRICE (AED)":"19,350.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.2.1.1.2",
+        "DESCRIPTION":"shrubs",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.2.1.1.2.1",
+        "DESCRIPTION":"Ref. Bou.red, Bougainvillea glabra red",
+        "QUANTITY":"61.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"25.00",
+        "TOTAL PRICE (AED)":"1,525.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.1.2.1.1.2.2",
+        "DESCRIPTION":"Ref. Bou.yel, Bougainvillea glabra yellow",
+        "QUANTITY":"432.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"32.00",
+        "TOTAL PRICE (AED)":"13,824.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.1.2.1.1.2.3",
+        "DESCRIPTION":"Ref. Bou.whi, Bougainvillea glabra white",
+        "QUANTITY":"442.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"25.00",
+        "TOTAL PRICE (AED)":"11,050.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.1.2.1.1.2.4",
+        "DESCRIPTION":"Ref. Jat.int, Jatropha intergerrima",
+        "QUANTITY":"88.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"32.00",
+        "TOTAL PRICE (AED)":"2,816.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.1.2.1.1.2.5",
+        "DESCRIPTION":"Ref. Cle.ine, Clerodendron inerme",
+        "QUANTITY":"55.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"22.00",
+        "TOTAL PRICE (AED)":"1,210.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.1.2.1.1.3",
+        "DESCRIPTION":"Ground Covering",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.2.1.1.3.1",
+        "DESCRIPTION":"Ref. Gaz.rig, Gazania rigens",
+        "QUANTITY":"6.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"67.0",
+        "TOTAL PRICE (AED)":"402.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.1.2.1.1.3.2",
+        "DESCRIPTION":"Ref. Wed.tri, Wedelia trilobata",
+        "QUANTITY":"75.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"66.0",
+        "TOTAL PRICE (AED)":"4,950.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.1.2.1.1.3.3",
+        "DESCRIPTION":"Ref. Pen,set, Pennisetum setaceum",
+        "QUANTITY":"4.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"67.0",
+        "TOTAL PRICE (AED)":"268.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.1.2.1.1.3.4",
+        "DESCRIPTION":"Ref. Lam.ros, Lampranthus roseus",
+        "QUANTITY":"23.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"67.0",
+        "TOTAL PRICE (AED)":"1,541.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.1.2.1.1.3.5",
+        "DESCRIPTION":"Ref. Rue.squ, Ruellia squarrosa",
+        "QUANTITY":"67.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"67.0",
+        "TOTAL PRICE (AED)":"4,489.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.1.2.1.1.3.6",
+        "DESCRIPTION":"Ref. Rue.equ, Russelia equisetiformis",
+        "QUANTITY":"9.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"72.0",
+        "TOTAL PRICE (AED)":"648.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.1.3",
+        "DESCRIPTION":"Irrigation",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.3.1",
+        "DESCRIPTION":"Sprinklers and accessories, complete as per specification and drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.3.1.1",
+        "DESCRIPTION":"Pop - up spray",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.3.1.1.1",
+        "DESCRIPTION":"3nos. 3\/4 Circle Pop-up sprays\/sprinklers",
+        "QUANTITY":"99.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"34.0",
+        "TOTAL PRICE (AED)":"3,366.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.1.3.1.1)"
+    },
+    {
+        "ITEM":"3.1.3.2",
+        "DESCRIPTION":"Drip Irrigation pipe work, complete as per specification and drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.3.2.1",
+        "DESCRIPTION":"Drip Irrigation pipe - Trees",
+        "QUANTITY":"139.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"6.0",
+        "TOTAL PRICE (AED)":"834.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.3.2.2",
+        "DESCRIPTION":"Drip Irrigation pipe - Mass shrubs",
+        "QUANTITY":"2,156.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"6.0",
+        "TOTAL PRICE (AED)":"12,936.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.3.2.3",
+        "DESCRIPTION":"Drip Irrigation pipe - Groundcovers",
+        "QUANTITY":"368.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"6.0",
+        "TOTAL PRICE (AED)":"2,208.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.3.3",
+        "DESCRIPTION":"GPM Bubller & LPH PC Emitter in-line drip tube",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.3.3.1",
+        "DESCRIPTION":"14nos x 3.8 LPH PC Emitter in-line drip per tree",
+        "QUANTITY":"210.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"15.8",
+        "TOTAL PRICE (AED)":"3,318.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.3.3.2",
+        "DESCRIPTION":"2nos x 3.8 LPH PC Emitter in-line drip per plant",
+        "QUANTITY":"1,084.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"5.3",
+        "TOTAL PRICE (AED)":"5,745.20",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.1.3.3.3",
+        "DESCRIPTION":"4nos x 2.3 LPH PC Emitter in-line drip per sqm",
+        "QUANTITY":"533.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"8.8",
+        "TOTAL PRICE (AED)":"4,690.40",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2",
+        "DESCRIPTION":"SALES CENTER",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1",
+        "DESCRIPTION":"Hardscape",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.1",
+        "DESCRIPTION":"Paving & Surfacing",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.1.1",
+        "DESCRIPTION":"Supply and lay, various paving and surfacing, including sand layer, grouting, bedding and all accessories, complete; all in accordance with the drawing and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.1.1.1",
+        "DESCRIPTION":"Ref. PV-06, Favo concrete paver, light greyish beige, medium greyish beige and Dark greyish beige, hexagonal shape size 150mm x 300mm x150mm",
+        "QUANTITY":"236.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"125.0",
+        "TOTAL PRICE (AED)":"29,500.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.1.1.2",
+        "DESCRIPTION":"Ref. PV-07, Tegula concrete block paver, medium beige Dark beige, variable sizes (160mm x 240mm x 80mm thick, 160mm x 160mm x 80mm thick and 160mm x 120mm x 80mm thick)",
+        "QUANTITY":"995.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"140.0",
+        "TOTAL PRICE (AED)":"139,300.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.1.2",
+        "DESCRIPTION":"Supply and lay, various banding, including sand layer, grouting, bedding and all accessories, complete; all in accordance with the drawing and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.1.2.1",
+        "DESCRIPTION":"Ref. PB-01, Concrete paving band, brown D68, honed finish, size 400mm x 250mm x 80mm high",
+        "QUANTITY":"435.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"82.0",
+        "TOTAL PRICE (AED)":"35,670.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.1.3",
+        "DESCRIPTION":"Supply and lay wall coping, including grouting, bedding and all accessories, complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.1.3.1",
+        "DESCRIPTION":"Ref. CO-01, Granite wall coping, light beige, size 400mm x 500mm x 30mm thick(Changed to 310mm x 500mmm x 30mm thk)",
+        "QUANTITY":"368.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"152.00",
+        "TOTAL PRICE (AED)":"55,936.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.1.4",
+        "DESCRIPTION":"Wall finishes to concrete walls including background preparation, mortar and accessories, complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.1.4.1",
+        "DESCRIPTION":"Ref. CL-03, Cemplaster coloured fiber-reinforced plaster, milano milk color",
+        "QUANTITY":"263.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"120.00",
+        "TOTAL PRICE (AED)":"31,560.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.2",
+        "DESCRIPTION":"Landscape Furniture",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.2.1",
+        "DESCRIPTION":"Supply and install landscape furniture, complete; all in accordance with the drawings Nos. LS401-LS411 and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":"Same as per Note 1 above"
+    },
+    {
+        "ITEM":"3.2.1.2.1.1",
+        "DESCRIPTION":"Ref. F-11, planters",
+        "QUANTITY":"4.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"13,600.00",
+        "TOTAL PRICE (AED)":"54,400.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.2.1.2",
+        "DESCRIPTION":"Ref.F-06, Bollards",
+        "QUANTITY":"56.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"1,170.00",
+        "TOTAL PRICE (AED)":"65,520.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.2.1.3",
+        "DESCRIPTION":"Pots , 1200mm dia., 1200mm high",
+        "QUANTITY":"6.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"13,600.00",
+        "TOTAL PRICE (AED)":"81,600.00",
+        "REMARKS":"Considered as GRC Pot (Local Suplier)"
+    },
+    {
+        "ITEM":"3.2.1.3",
+        "DESCRIPTION":"Glass Balustrade",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.3.1",
+        "DESCRIPTION":"Supply and install glass balustrade, including all necessary work complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.1.3.1.1",
+        "DESCRIPTION":"1200mm height",
+        "QUANTITY":"68.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"2,094.00",
+        "TOTAL PRICE (AED)":"142,392.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.2",
+        "DESCRIPTION":"Softcape",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.2.1",
+        "DESCRIPTION":"Plants",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.2.1.1",
+        "DESCRIPTION":"Supply and install plants, trees, shrubs, etc....including tree grate, approved fertilizers, excavate pits, geotextile and refill with planting soil after planting as per detail in accordance with Landscape Specifications, to the approval of the Engineer (The contractor should irrigate all the plants up to handing over)",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.2.1.1.1",
+        "DESCRIPTION":"trees",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.2.1.1.1.1",
+        "DESCRIPTION":"Ref. Mil, Millingtonia hortensis",
+        "QUANTITY":"10.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"1,100.00",
+        "TOTAL PRICE (AED)":"11,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.2.1.1.1.2",
+        "DESCRIPTION":"Ref. Plu, Plumeria obtusa",
+        "QUANTITY":"4.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"2,850.00",
+        "TOTAL PRICE (AED)":"11,400.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.2.1.1.1.3",
+        "DESCRIPTION":"Ref. Ole, Olea europaea",
+        "QUANTITY":"14.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"2,150.00",
+        "TOTAL PRICE (AED)":"30,100.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.2.1.1.1.4",
+        "DESCRIPTION":"Plumeria tree",
+        "QUANTITY":"6.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"2,850.00",
+        "TOTAL PRICE (AED)":"17,100.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.2.1.1.2",
+        "DESCRIPTION":"shrubs",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.2.2.1.1.2.1",
+        "DESCRIPTION":"Ref. Bou.red, Bougainvillea glabra red",
+        "QUANTITY":"884.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"25.00",
+        "TOTAL PRICE (AED)":"22,100.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.2.2.1.1.2.2",
+        "DESCRIPTION":"Ref. Bou.yel, Bougainvillea glabra yellow",
+        "QUANTITY":"55.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"32.00",
+        "TOTAL PRICE (AED)":"1,760.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.2.2.1.1.2.3",
+        "DESCRIPTION":"Ref. Bou.whi, Bougainvillea glabra white",
+        "QUANTITY":"44.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"25.00",
+        "TOTAL PRICE (AED)":"1,100.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.2.2.1.1.2.4",
+        "DESCRIPTION":"Ref. Jat.int, Jatropha intergerrima",
+        "QUANTITY":"17.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"29.00",
+        "TOTAL PRICE (AED)":"493.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.2.2.1.1.3",
+        "DESCRIPTION":"Ground Covering",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.2.2.1.1.3.1",
+        "DESCRIPTION":"Ref. Ses.por, Sesuvium portulacastrum",
+        "QUANTITY":"322.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"41.00",
+        "TOTAL PRICE (AED)":"13,202.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.2.2.1.1.3.2",
+        "DESCRIPTION":"Ref. Pen,set, Pennisetum setaceum",
+        "QUANTITY":"212.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"42.00",
+        "TOTAL PRICE (AED)":"8,904.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.2.2.1.1.3.3",
+        "DESCRIPTION":"Ref. Lam.ros, Lampranthus roseus",
+        "QUANTITY":"62.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"42.00",
+        "TOTAL PRICE (AED)":"2,604.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.2.2.1.1.3.4",
+        "DESCRIPTION":"Ref. Rue.squ, Ruellia squarrosa",
+        "QUANTITY":"186.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"42.0",
+        "TOTAL PRICE (AED)":"7,812.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.2.2.1.1.3.5",
+        "DESCRIPTION":"Ref. Sea, Seasonal flower",
+        "QUANTITY":"110.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"41.0",
+        "TOTAL PRICE (AED)":"4,510.00",
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"3.2.3",
+        "DESCRIPTION":"Irrigation Works",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.3.1",
+        "DESCRIPTION":"Sprinklers and accessories, complete as per specification and drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.3.1.1",
+        "DESCRIPTION":"Pop - up spray",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.3.1.1.1",
+        "DESCRIPTION":"3nos. 3\/4 Circle Pop-up sprays\/sprinklers",
+        "QUANTITY":"84.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"34.0",
+        "TOTAL PRICE (AED)":"2,856.00",
+        "REMARKS":"Rate from Parcel 1 (BOQ item 7.1.3.1.1)"
+    },
+    {
+        "ITEM":"3.2.3.2",
+        "DESCRIPTION":"Drip Irrigation pipe work, complete as per specification and drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.3.2.1",
+        "DESCRIPTION":"Drip Irrigation pipe - Trees",
+        "QUANTITY":"118.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"6.0",
+        "TOTAL PRICE (AED)":"708.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.3.2.2",
+        "DESCRIPTION":"Drip Irrigation pipe - Mass shrubs",
+        "QUANTITY":"2,000.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"6.0",
+        "TOTAL PRICE (AED)":"12,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.3.2.3",
+        "DESCRIPTION":"Drip Irrigation pipe - Groundcovers",
+        "QUANTITY":"1,786.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"6.0",
+        "TOTAL PRICE (AED)":"10,716.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.3.3",
+        "DESCRIPTION":"GPM Bubller & LPH PC Emitter in-line drip tube",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.3.3.1",
+        "DESCRIPTION":"14nos x 3.8 LPH PC Emitter in-line drip per tree",
+        "QUANTITY":"392.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"15.8",
+        "TOTAL PRICE (AED)":"6,193.60",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.3.3.2",
+        "DESCRIPTION":"2nos x 3.8 LPH PC Emitter in-line drip per plant",
+        "QUANTITY":"2,000.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"5.3",
+        "TOTAL PRICE (AED)":"10,600.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.2.3.3.3",
+        "DESCRIPTION":"4nos x 2.3 LPH PC Emitter in-line drip per sqm",
+        "QUANTITY":"3,571.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"8.8",
+        "TOTAL PRICE (AED)":"31,424.80",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.3",
+        "DESCRIPTION":"ADDITIONAL ITEMS",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.3.1",
+        "DESCRIPTION":"the tenderer is to list here below any additional items, shown on the drawings mentioned in the specification or required for the satisfactory completion of this section but not mentioned herein, any items not listed below shall be deemed to be included.",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.3.1.1",
+        "DESCRIPTION":"1)",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.3.1.2",
+        "DESCRIPTION":"2)",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.3.1.3",
+        "DESCRIPTION":"3)",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.3.1.4",
+        "DESCRIPTION":"4)",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.3.1.5",
+        "DESCRIPTION":"5)",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Not Applicable",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.3.1.6",
+        "DESCRIPTION":"6)",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Remeasurable",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.3.1.7",
+        "DESCRIPTION":"7)",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.3.1.8",
+        "DESCRIPTION":"8)",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.3.1.9",
+        "DESCRIPTION":"9)",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"3.3.1.10",
+        "DESCRIPTION":"10)",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2",
+        "DESCRIPTION":"BILL NO. 2 - GROUND FLOOR",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1",
+        "DESCRIPTION":"HARDSCAPE",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.1",
+        "DESCRIPTION":"Cement and sand screed to concrete slab to receive floor finishes (finishes measured separately); all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.1.1",
+        "DESCRIPTION":"To floors, to receive epoxy",
+        "QUANTITY":"6,735.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"By Others",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.2",
+        "DESCRIPTION":"Waterprofing system, complete; all in accordance with drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.2.1",
+        "DESCRIPTION":"Horizontally to parking area",
+        "QUANTITY":"6,276.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"By Other as per the response to TQ 1",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3",
+        "DESCRIPTION":"Paving & Surfacing",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.1",
+        "DESCRIPTION":"Supply and lay, various paving and surfacing, including sand layer, sub base, compacted aggregate base course, grouting, bedding and all accessories, complete; all in accordance with the drawing and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.1.1",
+        "DESCRIPTION":"Ref. PV-01, Tegula concrete block paver, light greyish beige, medium greyish beige and Dark greyish beige, variable sizes ( 160mm x 240mm x 80mm thick, 160mm x 160mm x 80mm thick and 160mm x 120mm x 80mm thick)",
+        "QUANTITY":"1,446.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"140.0",
+        "TOTAL PRICE (AED)":"202,440.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.1.2",
+        "DESCRIPTION":"Ref. PV-02, Radial concrete paver, light greyish beige, medium greyish beige and Dark greyish beige, size 100mm x 100mm x 80mm thick",
+        "QUANTITY":"244.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"116.0",
+        "TOTAL PRICE (AED)":"28,304.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.1.3",
+        "DESCRIPTION":"Ref. PV-04, Delgado herringbone concrete paver, grey, shot blasted, size 200mm x 50mm x 100mm thick",
+        "QUANTITY":"5,645.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"137.0",
+        "TOTAL PRICE (AED)":"773,365.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.1.4",
+        "DESCRIPTION":"Ref. PV-05, Umbriano concrete paver, granite beige textured, size 500mm x 1000mm x 60mm thick",
+        "QUANTITY":"1,616.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"225.0",
+        "TOTAL PRICE (AED)":"363,600.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.1.5",
+        "DESCRIPTION":"Ref. PV-06, Favo concrete paver, light greyish beige, medium greyish beige and Dark greyish beige, hexagonal shape size 150mm x 300mm x150mm thick",
+        "QUANTITY":"2,591.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"125.0",
+        "TOTAL PRICE (AED)":"323,875.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.1.6",
+        "DESCRIPTION":"Ref. PV-07, Tegula concrete block paver, medium beige Dark beige, variable sizes (160mm x 240mm x 80mm thick, 160mm x 160mm x 80mm thick and 160mm x 120mm x 80mm thick)",
+        "QUANTITY":"638.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"140.0",
+        "TOTAL PRICE (AED)":"89,320.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.1.7",
+        "DESCRIPTION":"Ref. PV-08, Tegula concrete block paver, light beige, medium beige and Dark beige, variable sizes (160mm x 240mm x 80mm thick, 160mm x 160mm x 80mm thick and 160mm x 120mm x 80mm thick)",
+        "QUANTITY":"610.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"140.0",
+        "TOTAL PRICE (AED)":"85,400.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.1.8",
+        "DESCRIPTION":"Ref. PV-09, Noon porcelain tiles, medium beige, wood finish, size 300mm x 1200mm x 20mm thick",
+        "QUANTITY":"1,085.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"280.0",
+        "TOTAL PRICE (AED)":"303,800.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.1.9",
+        "DESCRIPTION":"Ref. PV-10, artezo concrete paving, irrigular shape, mix light beige with dark beige",
+        "QUANTITY":"3,948.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"134.0",
+        "TOTAL PRICE (AED)":"529,032.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.1.10",
+        "DESCRIPTION":"Ref. FF-07, Concrete paver with kerbstone at edge",
+        "QUANTITY":"796.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"125.0",
+        "TOTAL PRICE (AED)":"99,500.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.2",
+        "DESCRIPTION":"Supply and lay, various cast in situe concrete surfacing, including appropriate base, and all accessories, as per drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.2.1",
+        "DESCRIPTION":"Ref. PV-11, Exposed aggregate cast-in situ concrete, medium beige, size Exposed aggregate cast-in situ concrete",
+        "QUANTITY":"5,489.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"221.0",
+        "TOTAL PRICE (AED)":"1,213,069.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.2.2",
+        "DESCRIPTION":"Ref. PV-13, Cast-in-situ mesh reinforced concrete, light gery",
+        "QUANTITY":"752.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"230.0",
+        "TOTAL PRICE (AED)":"172,960.00",
+        "REMARKS":"Including required substrate base"
+    },
+    {
+        "ITEM":"2.1.3.3",
+        "DESCRIPTION":"Supply and lay, asphalt surfacing, including appropriate base, and all accessories, as per drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.3.1",
+        "DESCRIPTION":"Ref. PV-12, Asphalt, dark grey",
+        "QUANTITY":"1,266.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"100.0",
+        "TOTAL PRICE (AED)":"126,600.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.4",
+        "DESCRIPTION":"Supply and lay, EPDM surfacing, including appropriate base, and all accessories, as per drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.4.1",
+        "DESCRIPTION":"Ref. PV-14, EPDM, variable color mix",
+        "QUANTITY":"272.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"430.0",
+        "TOTAL PRICE (AED)":"116,960.00",
+        "REMARKS":"Including required substrate base"
+    },
+    {
+        "ITEM":"2.1.3.5",
+        "DESCRIPTION":"Supply and lay, acrylic surfacing, including all necessary works, as per drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.5.1",
+        "DESCRIPTION":"Ref. PV-15, Acrylic coating surface 2.2mm thick, traffic green including lines for courts",
+        "QUANTITY":"1,011.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"170.0",
+        "TOTAL PRICE (AED)":"171,870.00",
+        "REMARKS":"Including required substrate base"
+    },
+    {
+        "ITEM":"2.1.3.5.2",
+        "DESCRIPTION":"Ref. PV-16, Acrylic coating surface 2.2mm thick, sky blue, light Ivory, yellow and green including lines for courts",
+        "QUANTITY":"555.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"170.0",
+        "TOTAL PRICE (AED)":"94,350.00",
+        "REMARKS":"Including required substrate base"
+    },
+    {
+        "ITEM":"2.1.3.6",
+        "DESCRIPTION":"Supply and lay, beach sand, including all necessary works, as per drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.6.1",
+        "DESCRIPTION":"Ref. PV-17, Beach sand, pale gream colour, average 400mm thick layer over salt barrier",
+        "QUANTITY":"3,562.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"131.0",
+        "TOTAL PRICE (AED)":"466,622.00",
+        "REMARKS":"As per approved Beach Sand of Crystal Lagoons"
+    },
+    {
+        "ITEM":"2.1.3.7",
+        "DESCRIPTION":"Supply and lay, various paving banding, including concrete foundation and all work, complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.7.1",
+        "DESCRIPTION":"Ref. PB-01, Concrete paving band, brown, honed finish, size 400mm x 250mm x 80mm thick",
+        "QUANTITY":"1,720.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"82.0",
+        "TOTAL PRICE (AED)":"141,040.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.7.2",
+        "DESCRIPTION":"Ref. PB-02, Concrete paving band, brown, honed finish, size 400mm x 250mm x 100mm thick",
+        "QUANTITY":"680.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"82.0",
+        "TOTAL PRICE (AED)":"55,760.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.7.3",
+        "DESCRIPTION":"Ref. PB-03, Concrete paving band, brown shotblasted finish, size 200mm x 200mm x 60mm thick",
+        "QUANTITY":"269.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"75.0",
+        "TOTAL PRICE (AED)":"20,175.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.8",
+        "DESCRIPTION":"Supply and lay wood decking, including underlay, supporting structure, tubes, plates, imbedded bolts, and all accessories, complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.3.8.1",
+        "DESCRIPTION":"Ref. PV-03, WPC composite decking, english walnut colour, timber look, grooved, grinded, size 3000mm x 140mm x 25mm thick",
+        "QUANTITY":"948.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"550.0",
+        "TOTAL PRICE (AED)":"521,400.00",
+        "REMARKS":"Including required substrate baseV.E.: Supplier: Wallnux or equal"
+    },
+    {
+        "ITEM":"2.1.4",
+        "DESCRIPTION":"Steps finishes",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1",
+        "DESCRIPTION":"Supply and lay steps finishes, including all necessary works, complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1.1",
+        "DESCRIPTION":"Ref. SR-01, Concrete stair riser, light greyish beige, shot blasted, size 100mm x 1000mm x 30mm thick",
+        "QUANTITY":"39.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"352.0",
+        "TOTAL PRICE (AED)":"13,728.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1.2",
+        "DESCRIPTION":"Ref. SR-02, Concrete stair riser, light greyish beige, shot blasted, size 450mm x 500mm x 30mm thick",
+        "QUANTITY":"25.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"340.0",
+        "TOTAL PRICE (AED)":"8,500.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1.3",
+        "DESCRIPTION":"Ref. SR-03, Granite stair riser, light greyish beige, sandblasted, size 100mm x 1000mm x 20mm thick",
+        "QUANTITY":"6.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"280.0",
+        "TOTAL PRICE (AED)":"1,680.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1.4",
+        "DESCRIPTION":"Precast concrete stair riser, size 160mm x 1000mm x 30mm thick",
+        "QUANTITY":"5.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"280.0",
+        "TOTAL PRICE (AED)":"1,400.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1.5",
+        "DESCRIPTION":"Porcelain tile stair riser, size 600mm x 300mm x 150mm thick(Changed to 130x600x10mm Light Greyish Beige; Sandblasted)",
+        "QUANTITY":"12.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"252.0",
+        "TOTAL PRICE (AED)":"3,024.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1.6",
+        "DESCRIPTION":"Ref. ST-01, Precast concrete stair tread with bullnose edge, light greyish beige, shot blasted, size 340mm x 1000mm x 50mm thick",
+        "QUANTITY":"142.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"237.0",
+        "TOTAL PRICE (AED)":"33,654.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1.7",
+        "DESCRIPTION":"Ref. ST-02, composite wood on galvanize steel base frame, english walnut colour,timber look, size 600mm x 120mm x 40mm thick",
+        "QUANTITY":"60.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"631.0",
+        "TOTAL PRICE (AED)":"37,860.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1.8",
+        "DESCRIPTION":"Ref. ST-03, Precast concrete stair tread, light greyish beige, shot blasted, size 600mm x 1000mm x 50mm thick",
+        "QUANTITY":"136.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"334.0",
+        "TOTAL PRICE (AED)":"45,424.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1.9",
+        "DESCRIPTION":"Ref. ST-04, Precast concrete stair tread with bullnose edge, light greyish beige, shot blasted, size 900mm x 500mm x 50mm thick",
+        "QUANTITY":"50.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"340.0",
+        "TOTAL PRICE (AED)":"17,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1.10",
+        "DESCRIPTION":"Ref. ST-04, Precast concrete stair tread, light greyish beige, shot blasted, size 900mm x 500mm x 50mm thick",
+        "QUANTITY":"46.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"334.0",
+        "TOTAL PRICE (AED)":"15,364.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1.11",
+        "DESCRIPTION":"Ref. ST-05, Granite stair tread with bullnose edge, light greyish beige, sandblasted, size 345mm x 1000mm x 20mm thick",
+        "QUANTITY":"571.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"321.0",
+        "TOTAL PRICE (AED)":"183,291.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.4.1.12",
+        "DESCRIPTION":"Porcelain tile stair tread, size 600mm x 300mm wide",
+        "QUANTITY":"15.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"256.0",
+        "TOTAL PRICE (AED)":"3,840.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.5",
+        "DESCRIPTION":"Coping",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.5.1",
+        "DESCRIPTION":"Supply and lay wall coping, including grouting, bedding and all accessories, complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.5.1.1",
+        "DESCRIPTION":"Ref. CO-01, Granite wall coping, light beige, size 210mm x 500mm x 30mm thick",
+        "QUANTITY":"1,444.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"152.00",
+        "TOTAL PRICE (AED)":"219,488.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.5.1.2",
+        "DESCRIPTION":"Ref. CO-02, Granite wall coping, light beige, size 410mm x 1000mm x 30mm thick",
+        "QUANTITY":"326.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"253.00",
+        "TOTAL PRICE (AED)":"82,478.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.5.1.3",
+        "DESCRIPTION":"Ref. CO-04, Concrete wall coping, light beige, size 400mm x 500mm x 100mm thick",
+        "QUANTITY":"273.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"506.00",
+        "TOTAL PRICE (AED)":"138,138.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.6",
+        "DESCRIPTION":"Kerb",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.6.1",
+        "DESCRIPTION":"Supply and lay kerb stone, including appropriate base, and all accessories, complete; all in accordance with the drawing No. 2102 and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.6.1.1",
+        "DESCRIPTION":"Ref. C-01, Precast concrete half batter kerbstone, greyish beige, shot blasted finish, size 200mm x 600mm x 300mm high",
+        "QUANTITY":"2,079.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"116.00",
+        "TOTAL PRICE (AED)":"241,164.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.6.1.2",
+        "DESCRIPTION":"Ref. C-02, Precast concrete flush kerbstone, greyish beige, shot blasted finish, size 200mm x 600mm x 300mm high",
+        "QUANTITY":"561.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"124.00",
+        "TOTAL PRICE (AED)":"69,564.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.6.1.3",
+        "DESCRIPTION":"Ref. C-03, Precast concrete roll over kerbstone, greyish beige, shot blasted finish, size 420mm x 600mm x 200mm high",
+        "QUANTITY":"86.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"162.00",
+        "TOTAL PRICE (AED)":"13,932.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.7",
+        "DESCRIPTION":"Wall finishes to concrete walls including background preparation, mortar and accessories, complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.7.1",
+        "DESCRIPTION":"Ref. CL-03, Cemplaster coloured fiber-reinforced plaster, milano milk color",
+        "QUANTITY":"806.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"120.00",
+        "TOTAL PRICE (AED)":"96,720.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.7.2",
+        "DESCRIPTION":"Ceramic tiles, blue, size 100x100x10mm thick, to outdoor showers",
+        "QUANTITY":"68.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"524.00",
+        "TOTAL PRICE (AED)":"35,632.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.7.3",
+        "DESCRIPTION":"Concrete tile cladding",
+        "QUANTITY":"535.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":"119.00",
+        "TOTAL PRICE (AED)":"63,665.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.8",
+        "DESCRIPTION":"Supply and lay precast concrete wheel stopper including all necessary works, complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.8.1",
+        "DESCRIPTION":"Ref. WS-01, Reinforced precast concrete wheel stopper, greyish beige, shotblasted finish, size 1900mm x 200mm x 350mm high",
+        "QUANTITY":"94.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"578.00",
+        "TOTAL PRICE (AED)":"54,332.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9",
+        "DESCRIPTION":"Shade Structure",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1",
+        "DESCRIPTION":"Construction of shade structure including columns, beams, shade coverings and other all necessary fixing, fittings with necessary coatings\/protections, complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1.1",
+        "DESCRIPTION":"Shade no. 1, Powder coated galvanized steel posts various height between 3500 - 4500mm, total area 99m2, including HDPE Fabric tensile, as per drawing No. LS324(Changed to Total Area: 297m2 including HDPE Fabric tensile, as per drawing No. LS318)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"110,867.00",
+        "TOTAL PRICE (AED)":"110,867.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1.2",
+        "DESCRIPTION":"Shade no. 2, Powder coated galvanized steel posts various height between 3500 - 4500mm, total area 77m2, including HDPE Fabric tensile, as per drawing No. LS325(Changed to Total Area: 96.5m2 including HDPE Fabric tensile, as per drawing No. LS319)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"43,881.00",
+        "TOTAL PRICE (AED)":"43,881.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1.3",
+        "DESCRIPTION":"Shade no. 3, Powder coated galvanized steel posts various height between 3500 - 5000mm, total area 761m2, including HDPE Fabric tensile, as per drawing No. LS325(Changed to Total Area: 1064m2 including HDPE Fabric tensile, as per drawing No. LS319)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"258,312.00",
+        "TOTAL PRICE (AED)":"258,312.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1.4",
+        "DESCRIPTION":"Shade no. 4, Powder coated galvanized steel posts, overall size 25000mm (L) x 5500mm (W) x 2800mm (H), including HDPE Fabric tensile, as per drawing No. LS326(Changed to overall size 25000mm (L) x 6500mm (W) x 2800mm (H); Total Area: 162.5m2 including HDPE Fabric tensile, as per drawing No. LS320)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"50,937.00",
+        "TOTAL PRICE (AED)":"50,937.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1.5",
+        "DESCRIPTION":"Ditto, but overall size 22600mm (L) x 6500mm (W) x 2800mm (H)(Changed to overall size 22500mm (L) x 6500mm (W) x 2800mm (H); Total Area: 146.25m2 including HDPE Fabric tensile, as per drawing No. LS320)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"47,326.00",
+        "TOTAL PRICE (AED)":"47,326.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1.6",
+        "DESCRIPTION":"Ditto, but overall size 20100mm (L) x 6500mm (W) x 2800mm (H)(Changed to overall size 20000mm (L) x 6500mm (W) x 2800mm (H); Total Area: 130m2 including HDPE Fabric tensile, as per drawing No. LS320)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"43,715.00",
+        "TOTAL PRICE (AED)":"43,715.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1.7",
+        "DESCRIPTION":"Ditto, but overall size 16000mm (L) x 5500mm (W) x 2800mm (H)(Changed to overall size 16000mm (L) x 6500mm (W) x 2800mm (H); Total Area: 104m2 including HDPE Fabric tensile, as per drawing No. LS320)",
+        "QUANTITY":"2.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"37,457.00",
+        "TOTAL PRICE (AED)":"74,914.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1.8",
+        "DESCRIPTION":"Shade no. 5, Powder coated galvanized steel posts, overall size 41900mm (L) x 5500mm (W) x 2800mm (H), including HDPE Fabric tensile, as per drawing No. LS327(Changed to overall size 41900mm (L) x 6100mm (W) x 2800mm (H); Total Area: 256m2 including HDPE Fabric tensile, as per drawing No. LS321)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"82,539.00",
+        "TOTAL PRICE (AED)":"82,539.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1.9",
+        "DESCRIPTION":"Ditto, but overall size 28830mm (L) x 5500mm (W) x 2800mm (H)(Changed to overall size 29500mm (L) x 6100mm (W) x 2800mm (H); Total Area: 178m2 including HDPE Fabric tensile, as per drawing No. LS321)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"57,032.00",
+        "TOTAL PRICE (AED)":"57,032.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1.10",
+        "DESCRIPTION":"Ditto, but overall size 26900mm (L) x 5500mm (W) x 2800mm (H)",
+        "QUANTITY":"2.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"48,530.00",
+        "TOTAL PRICE (AED)":"97,060.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1.11",
+        "DESCRIPTION":"Ditto, but overall size 21500mm (L) x 5500mm (W) x 2800mm (H)(Changed to overall size 21500mm (L) x 6600mm (W) x 2800mm (H); Total Area: 141.9m2 including HDPE Fabric tensile, as per drawing No. LS321)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"44,496.70",
+        "TOTAL PRICE (AED)":"44,496.70",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.9.1.12",
+        "DESCRIPTION":"Shade no. 3, HDPE fabric shade, powder coated galvanized steel posts various height between 2100 - 2500mm, total area 14m2, including HDPE Fabric tensile, as per drawing No. LS320",
+        "QUANTITY":"4.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"15,000.00",
+        "TOTAL PRICE (AED)":"60,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.10",
+        "DESCRIPTION":"Fences, Gates and Screens",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.10.1",
+        "DESCRIPTION":"Steel fence and gates including posts and all necessary fixing, fittings and accessories, complete; all in accordance with the drawing No. LS309 and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.10.1.1",
+        "DESCRIPTION":"To Muga and Tennis courts, 4100mm high",
+        "QUANTITY":"231.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"856.00",
+        "TOTAL PRICE (AED)":"197,736.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.10.2",
+        "DESCRIPTION":"Aluminum fencing including fence panels, posts and all necessary fixing, fittings and accessories, complete; all in accordance with the drawing No. LS323 and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.10.2.1",
+        "DESCRIPTION":"Aluminum fence panels with average width of 3300mm mechanically fixed to aluminum posts, 1200mm high",
+        "QUANTITY":"284.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"861.00",
+        "TOTAL PRICE (AED)":"244,524.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.10.3",
+        "DESCRIPTION":"Court net including aluminum posts and all necessary fixing and accessories, complete; all in accordance with the drawing No. LS307 and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.10.3.1",
+        "DESCRIPTION":"Overall size 11222mm (L) x 920mm (H)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"8,584.50",
+        "TOTAL PRICE (AED)":"8,584.50",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.10.4",
+        "DESCRIPTION":"Removable court net including steel columns and all necessary fixing and accessories, complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.10.4.1",
+        "DESCRIPTION":"Overall size 15250mm (L)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"8,426.00",
+        "TOTAL PRICE (AED)":"8,426.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.11",
+        "DESCRIPTION":"Handrails and Balustrades",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.11.1",
+        "DESCRIPTION":"Powder coated aluminum balustrade with hardwood timber handrail, floor mounted, including all necessary fixings, fittings and accessories, complete; all in accordance with the drawing No. LS311 and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.11.1.1",
+        "DESCRIPTION":"900mm high",
+        "QUANTITY":"152.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"1,132.00",
+        "TOTAL PRICE (AED)":"172,064.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.11.1.2",
+        "DESCRIPTION":"1200mm high",
+        "QUANTITY":"9.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"1,186.00",
+        "TOTAL PRICE (AED)":"10,674.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.11.2",
+        "DESCRIPTION":"Powder coated aluminum balustrade, floor mounted, including posts and all necessary fixings, fittings and accessories, complete; all in accordance with the drawing No. LS322 and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.11.2.1",
+        "DESCRIPTION":"1100mm high",
+        "QUANTITY":"55.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"1,150.00",
+        "TOTAL PRICE (AED)":"63,250.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.11.3",
+        "DESCRIPTION":"Powder coated aluminum rod with hardwood timber handrail, wall mounted, including all necessary fixings, fittings and accessories, complete; all in accordance with the drawing No. LS311 and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.11.3.1",
+        "DESCRIPTION":"to ramps",
+        "QUANTITY":"78.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":"1,132.00",
+        "TOTAL PRICE (AED)":"88,296.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.12",
+        "DESCRIPTION":"Road marking",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.12.1",
+        "DESCRIPTION":"Roads and traffic marking, complete; all in accordance with the drawings, specification and Engineer's approval",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.12.1.1",
+        "DESCRIPTION":"To Roadways",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":"EXCLUDED"
+    },
+    {
+        "ITEM":"2.1.13",
+        "DESCRIPTION":"Signage",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.13.1",
+        "DESCRIPTION":"Instal only logos, complete; all in accordance with the drawing and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":"EXCLUDED"
+    },
+    {
+        "ITEM":"2.1.13.1.1",
+        "DESCRIPTION":"To all areas",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.13.2",
+        "DESCRIPTION":"Supply and instal external signage, complete; all in accordance with the drawing and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.13.2.1",
+        "DESCRIPTION":"To all areas",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.14",
+        "DESCRIPTION":"Swim up bar, including bridge, steps, walls, bar, seating area, all required, finishes (stairs and seating area finishes are measured separetly), all necessary fixing, fittings and accessories, complete; all in accordance with the drawings Nos. LS332-LS333 and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.14.1",
+        "DESCRIPTION":"Swim-up Bar (Excluding Water Feature)",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"312,027.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"1) Bar floor paving\/flooring for swim-up bar, refer to dwg. No LS326 & LS327Ref. PV-09, Noon porcelain tiles, medium beige, wood finish, size 300mm x 1200mm x 20mm thick",
+        "QUANTITY":"66.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"2) Concrete Paver for swim-up bar bridge,refer to dwg. No LS326 & LS327",
+        "QUANTITY":"30.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"3) 300mm bridge coping for swim-up bar, refer to dwg. No LS326 & LS327",
+        "QUANTITY":"33.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"4) CL-05, Silicone Render Finish for Swim-up bar, refer to dwg. No LS100, LS326 & LS327",
+        "QUANTITY":"200.0",
+        "UNIT":"m2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"5) Precast concrete polished and sealed bar counter top 1100mm width for swim-up bar, refer to dwg. No LS326 & LS327",
+        "QUANTITY":"33.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"6) Precast concrete polished and sealed bench laid over lagoon lining at neoprene pedestals. bench to be loose laid.",
+        "QUANTITY":"40.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"7) 300mm stair tread for swim-up bar, refer to dwg. No LS326 & LS327",
+        "QUANTITY":"5.0",
+        "UNIT":"m2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"8) 150mm stair rise for swim-up bar, refer to dwg. No LS326 & LS327",
+        "QUANTITY":"5.0",
+        "UNIT":"m2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"9) Reinforced concrete for swim-up bar structural",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"EXCLUDED",
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"10)Full counter cabinets in aluminum doors, shelvings and drawers (brown) with 25mm corian counter top (white).",
+        "QUANTITY":"26.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"11) Roof Top Hatch (\u00d81600mm)",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"12) 600mm wide counter, corian counter top on steel bracket mounted to column, at 950mm height",
+        "QUANTITY":"10.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"13) Shaft ladder going to roof at 7 meter height",
+        "QUANTITY":"1.0",
+        "UNIT":"LS",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"14) Coping around Bar Counter water jet cutting",
+        "QUANTITY":"40.0",
+        "UNIT":"m",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"15) Roof Water Proofing using Polyurea Waterproofing",
+        "QUANTITY":"153.9",
+        "UNIT":"m2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.15",
+        "DESCRIPTION":"Decking and seats for the floating cinema, complete; all in accordance with the drawing No. LS330 and specification (finishes measured separetly)(civil works are excluded).",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.1.15.1",
+        "DESCRIPTION":"Floating cinema,Price including floating decks, pontoon, lounge and concrete strcutures(Excluding Cinematic Screen, lighting and sound system)",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"481,958.00",
+        "REMARKS":"(Excluding Cinematic Screen, lighting and sound system)"
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"Polystyrene filled reinforced concrete floating pontoon ( 8.6 x 4.0m) with 3 Nos. of polyster striped webbed net",
+        "QUANTITY":"4.0",
+        "UNIT":"Nr.",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"Polyster striped webbed net (2.2 x 2m)",
+        "QUANTITY":"12.0",
+        "UNIT":"Nr.",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"Polystyrene filled reinforced concrete floating pontoon (2 x 4m)",
+        "QUANTITY":"2.0",
+        "UNIT":"Nr.",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"Connecting Bridge for the floating pontoons (1.2 x 1.3m)",
+        "QUANTITY":"4.0",
+        "UNIT":"Nr.",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"Connecting Bridge for the floating pontoons (1.2 x 2m)",
+        "QUANTITY":"1.0",
+        "UNIT":"Nr.",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"Connecting Bridge for the floating pontoons (1.2 x 1.325m)",
+        "QUANTITY":"1.0",
+        "UNIT":"Nr.",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"WPC Composite Decking Finish 3000 x 140 x 25mm (PV-03)",
+        "QUANTITY":"112.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":null,
+        "DESCRIPTION":"Exposed Aggregate 150mm-Thk (PV-11)",
+        "QUANTITY":"87.0",
+        "UNIT":"m\u00b2",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2",
+        "DESCRIPTION":"LANDSCAPE FURNITURE",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1",
+        "DESCRIPTION":"Supply and install landscape furniture, complete; all in accordance with the drawings Nos. LS401-LS411 and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.1",
+        "DESCRIPTION":"Ref. F-01, bench with backrest",
+        "QUANTITY":"25.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"9,380.00",
+        "TOTAL PRICE (AED)":"234,500.00",
+        "REMARKS":"NOTE 1: Value Engineering: As per Tender Queries No. 3 emailed from Mr. Dillesh Reddy dated 15th Nov 2023We are proposing alternative from European OriginUrban Line, Modern Gardens or Equal"
+    },
+    {
+        "ITEM":"2.2.1.2",
+        "DESCRIPTION":"Ref. F-02, bench without backrest",
+        "QUANTITY":"16.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"8,400.00",
+        "TOTAL PRICE (AED)":"134,400.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.3",
+        "DESCRIPTION":"Ref. F-03, litter bins",
+        "QUANTITY":"60.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"4,950.00",
+        "TOTAL PRICE (AED)":"297,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.4",
+        "DESCRIPTION":"Ref. F-04, tree grate",
+        "QUANTITY":"25.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"3,580.00",
+        "TOTAL PRICE (AED)":"89,500.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.5",
+        "DESCRIPTION":"Ref. F-05, bike rack",
+        "QUANTITY":"4.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"3,570.00",
+        "TOTAL PRICE (AED)":"14,280.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.6",
+        "DESCRIPTION":"Ref. F-06, bollard (fixed)",
+        "QUANTITY":"17.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"1,170.00",
+        "TOTAL PRICE (AED)":"19,890.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.7",
+        "DESCRIPTION":"Ref. F-06A, bollard (removable)",
+        "QUANTITY":"3.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"1,820.00",
+        "TOTAL PRICE (AED)":"5,460.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.8",
+        "DESCRIPTION":"Ref. F-07, outdoor sofa set",
+        "QUANTITY":"3.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"9,840.00",
+        "TOTAL PRICE (AED)":"29,520.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.9",
+        "DESCRIPTION":"Ref. F-08, sun lounger",
+        "QUANTITY":"135.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"3,712.50",
+        "TOTAL PRICE (AED)":"501,187.50",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.10",
+        "DESCRIPTION":"Ref. F-09, lounger chair w\/ cushion",
+        "QUANTITY":"97.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"4,117.50",
+        "TOTAL PRICE (AED)":"399,397.50",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.11",
+        "DESCRIPTION":"Ref. F-10, high table & stools",
+        "QUANTITY":"17.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"9,380.00",
+        "TOTAL PRICE (AED)":"159,460.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.12",
+        "DESCRIPTION":"Ref. F-11, planters",
+        "QUANTITY":"24.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"13,600.00",
+        "TOTAL PRICE (AED)":"326,400.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.13",
+        "DESCRIPTION":"Ref. F-12, showers\/footwash",
+        "QUANTITY":"12.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"3,347.00",
+        "TOTAL PRICE (AED)":"40,164.00",
+        "REMARKS":"Fittings only (Made of Stainess Steel 316)"
+    },
+    {
+        "ITEM":"2.2.1.14",
+        "DESCRIPTION":"Ref. F-13, lifeguard post",
+        "QUANTITY":"2.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"3,820.00",
+        "TOTAL PRICE (AED)":"7,640.00",
+        "REMARKS":"Same as per Note 1 above"
+    },
+    {
+        "ITEM":"2.2.1.15",
+        "DESCRIPTION":"Ref. F-14, fence & gate",
+        "QUANTITY":"2.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"7,595.00",
+        "TOTAL PRICE (AED)":"15,190.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.16",
+        "DESCRIPTION":"Ref. F-15, cabanas",
+        "QUANTITY":"10.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"22,917.00",
+        "TOTAL PRICE (AED)":"229,170.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.17",
+        "DESCRIPTION":"Trash bin, to courts",
+        "QUANTITY":"2.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"4,950.00",
+        "TOTAL PRICE (AED)":"9,900.00",
+        "REMARKS":"Same as per Note 1 above"
+    },
+    {
+        "ITEM":"2.2.1.18",
+        "DESCRIPTION":"Linear bench with backrest, to courts",
+        "QUANTITY":"5.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"9,380.00",
+        "TOTAL PRICE (AED)":"46,900.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.19",
+        "DESCRIPTION":"Footbal goal net and hoop",
+        "QUANTITY":"2.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"28,165.00",
+        "TOTAL PRICE (AED)":"56,330.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.2.1.20",
+        "DESCRIPTION":"100cm dia ceramic top coffe table with woven base: Porcini, to floating cabanas",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"6,259.00",
+        "TOTAL PRICE (AED)":"6,259.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.3",
+        "DESCRIPTION":"PLAYGROUND EQUIPMENT",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.3.1",
+        "DESCRIPTION":"Supply and install playground equipment, including any necessary bases, welding, imbedded bolts, complete; all in accordance with the drawings and specification",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.3.1.1",
+        "DESCRIPTION":"To Skate Park",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":"EXCLUDED"
+    },
+    {
+        "ITEM":"2.3.1.1.1",
+        "DESCRIPTION":"Straight rail - Profile o",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.3.1.1.2",
+        "DESCRIPTION":"Funbox with grindbox 1\/3",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.3.1.1.3",
+        "DESCRIPTION":"Grindbox 8",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.3.1.1.4",
+        "DESCRIPTION":"Grindbox 12",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.3.1.1.5",
+        "DESCRIPTION":"Quarter pipe + Roll-in",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.3.1.1.6",
+        "DESCRIPTION":"Funbox with rail 1\/3",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.3.1.2",
+        "DESCRIPTION":"To Play Area",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.3.1.2.1",
+        "DESCRIPTION":"Ref. PE-01, Tipi Carousel",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"29,400.00",
+        "TOTAL PRICE (AED)":"29,400.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.3.1.2.2",
+        "DESCRIPTION":"Ref. PE-02, Ocean Multi Seesaw",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"54,444.00",
+        "TOTAL PRICE (AED)":"54,444.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.3.1.2.3",
+        "DESCRIPTION":"Ref. PE-03, Dolphin Springer",
+        "QUANTITY":"1.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"8,731.00",
+        "TOTAL PRICE (AED)":"8,731.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4",
+        "DESCRIPTION":"SOFTSCAPE",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1",
+        "DESCRIPTION":"Plants",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1",
+        "DESCRIPTION":"Supply and install plants, trees, shrubs, etc....including tree grate, approved fertilizers, excavate pits, geotextile and refill with planting soil after planting as per detail in accordance with Landscape Specifications, to the approval of the Engineer (The contractor should irrigate all the plants up to handing over)",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.1",
+        "DESCRIPTION":"palm",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.1.1",
+        "DESCRIPTION":"Ref. Pho, Phoenix dactylifera",
+        "QUANTITY":"16.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"2,489.00",
+        "TOTAL PRICE (AED)":"39,824.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.1.2",
+        "DESCRIPTION":"Ref. Coc, Cocos nuciferaVE: 1.5-2.0M CT, 5M Ht, 30cm dia",
+        "QUANTITY":"47.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"2,914.00",
+        "TOTAL PRICE (AED)":"136,958.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.1.3",
+        "DESCRIPTION":"Ref. Wash, Washingtonia robusta",
+        "QUANTITY":"17.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"2,854.00",
+        "TOTAL PRICE (AED)":"48,518.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.1.4",
+        "DESCRIPTION":"Ref. Cham, Chamaerops humilisVE: 2.0-2.5m O.A Ht, multi trunk",
+        "QUANTITY":"20.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"5,743.00",
+        "TOTAL PRICE (AED)":"114,860.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.1.5",
+        "DESCRIPTION":"Ref. Cop, Copernicia pruniferaVE: 1.0-1.3m C.T,25-30cm dia.",
+        "QUANTITY":"18.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"2,478.00",
+        "TOTAL PRICE (AED)":"44,604.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.1.6",
+        "DESCRIPTION":"Ref. Bis, Bismarckia nobilis",
+        "QUANTITY":"5.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"4,900.00",
+        "TOTAL PRICE (AED)":"24,500.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.2",
+        "DESCRIPTION":"trees",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.2.1",
+        "DESCRIPTION":"Ref. Aza, Azadirachta indica",
+        "QUANTITY":"154.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"900.00",
+        "TOTAL PRICE (AED)":"138,600.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.2.2",
+        "DESCRIPTION":"Ref. Del, Delonix regia",
+        "QUANTITY":"76.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"915.00",
+        "TOTAL PRICE (AED)":"69,540.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.2.3",
+        "DESCRIPTION":"Ref. Alb, Albizia lebbeck",
+        "QUANTITY":"32.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"1,000.00",
+        "TOTAL PRICE (AED)":"32,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.2.4",
+        "DESCRIPTION":"Ref. Pel, Peltophorum inerme",
+        "QUANTITY":"91.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"890.00",
+        "TOTAL PRICE (AED)":"80,990.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.2.5",
+        "DESCRIPTION":"Ref. Mil, Millingtonia hortensis",
+        "QUANTITY":"51.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"1,100.00",
+        "TOTAL PRICE (AED)":"56,100.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.2.6",
+        "DESCRIPTION":"Ref. Cor, Cordia sebestena",
+        "QUANTITY":"114.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"749.00",
+        "TOTAL PRICE (AED)":"85,386.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.2.7",
+        "DESCRIPTION":"Ref. Plu, Plumeria obtusa",
+        "QUANTITY":"159.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"2,850.00",
+        "TOTAL PRICE (AED)":"453,150.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.2.8",
+        "DESCRIPTION":"Ref. Tab, Tabebuia rosea",
+        "QUANTITY":"88.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"915.00",
+        "TOTAL PRICE (AED)":"80,520.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.2.9",
+        "DESCRIPTION":"Ref. Ole, Olea europaea",
+        "QUANTITY":"20.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"2,150.00",
+        "TOTAL PRICE (AED)":"43,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.2.10",
+        "DESCRIPTION":"Ref. Cas, Casuarina equisetifolia",
+        "QUANTITY":"71.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"959.00",
+        "TOTAL PRICE (AED)":"68,089.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.2.11",
+        "DESCRIPTION":"Ref. Pro, Prosopis cinerariaVE: 1.5M CT, 3M OAH, 5cm dia.",
+        "QUANTITY":"13.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"1,802.00",
+        "TOTAL PRICE (AED)":"23,426.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"2.4.1.1.3",
+        "DESCRIPTION":"Succulent",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":"#REF!"
+    },
+    {
+        "ITEM":"2.4.1.1.3.1",
+        "DESCRIPTION":"Ref. San.tri, Sansevieria trifasciata",
+        "QUANTITY":"190.0",
+        "UNIT":"No",
+        "UNIT PRICE(AED)":"23.00",
+        "TOTAL PRICE (AED)":"4,370.00",
+        "REMARKS":"#REF!"
+    }
+]

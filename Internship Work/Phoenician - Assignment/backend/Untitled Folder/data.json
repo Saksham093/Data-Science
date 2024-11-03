@@ -1,0 +1,398 @@
+[
+    {
+        "ITEM":"1",
+        "DESCRIPTION":"BILL NO. 1 - PRELIMINARIES",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.1",
+        "DESCRIPTION":"GENERAL REQUIREMENTS",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.1.1",
+        "DESCRIPTION":"General notes on preliminaries",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.1.1.1",
+        "DESCRIPTION":"these preliminaries are applicable to the whole of the works and associated works. each clause or sub clause must be individually priced. the tenderer shall not enter any lump sums covering more than one or all items, clauses or sub- clauses. where any item, clause or sub-clause of the preliminaries not been priced, it will be deemed that the value of such item, clause or sub-clause is included in the rates for measured item elsewhere in the bill of quantities.",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"2,030,000.00",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2",
+        "DESCRIPTION":"conditions of contract",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.1",
+        "DESCRIPTION":"Specifications",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.1.1",
+        "DESCRIPTION":"the contractor shall describe and list at the end of this bill under additional items below, any obligations contained in specifications, for which he has not allowed elsewhere and wishes to price separately",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.2",
+        "DESCRIPTION":"Drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.2.1",
+        "DESCRIPTION":"the contractor shall describe and list at the end of this bill under additional items below, any obligations contained in drawings for which he has not allowed elsewhere and wishes to price separately",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.3",
+        "DESCRIPTION":"Form of agreement",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.3.1",
+        "DESCRIPTION":"the contractor shall describe and list at the end of this bill under additional items below, any obligations contained in form of agreement for which he has not allowed elsewhere and wishes to price separately",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.4",
+        "DESCRIPTION":"Form of tender",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.4.1",
+        "DESCRIPTION":"the contractor shall describe and list at the end of this bill under additional items below, any obligations contained in form of tender and appendices for which he has not allowed elsewhere and wishes to price separately",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.5",
+        "DESCRIPTION":"Bill of Quantities",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.5.1",
+        "DESCRIPTION":"the contractor shall describe and list at the end of this bill under additional items below, any obligations contained in bill of quantities for which he has not allowed elsewhere and wishes to price separately",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.6",
+        "DESCRIPTION":"Conditions of Contract",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.6.1",
+        "DESCRIPTION":"the contractor to list and price for all costs associated with compliance with the conditions of contract and not covered elsewhere (details to be provided)",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.6.1.1",
+        "DESCRIPTION":"1",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.6.1.2",
+        "DESCRIPTION":"2",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.2.6.1.3",
+        "DESCRIPTION":"3",
+        "QUANTITY":null,
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3",
+        "DESCRIPTION":"GENERAL OBLIGATIONS",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.1",
+        "DESCRIPTION":"Performance Security",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.1.1",
+        "DESCRIPTION":"performance security in accordance with conditions of contract",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.2",
+        "DESCRIPTION":"Workmen's Insurances",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.2.1",
+        "DESCRIPTION":"workmen's compensation insurance in accordance with conditions of contract",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.3",
+        "DESCRIPTION":"Professional Indemnity Insurance",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.3.1",
+        "DESCRIPTION":"professional indemnity insurance in accordance with conditions of contract",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Not Applicable",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.4",
+        "DESCRIPTION":"Shop Drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.4.1",
+        "DESCRIPTION":"the contractor shall provide shop drawings as specified",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.5",
+        "DESCRIPTION":"As-Built Drawings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.5.1",
+        "DESCRIPTION":"allow for providing \"as built\" (as specified and in the format required by the engineer) drawings and maintenance and operation manuals in hard and soft formats",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.6",
+        "DESCRIPTION":"Spares",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.6.1",
+        "DESCRIPTION":"the contractor shall allow for the supply only spares as required in the specifications",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.7",
+        "DESCRIPTION":"Warranties",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.7.1",
+        "DESCRIPTION":"the contractor shall allow for warranties as required in the specifications",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.8",
+        "DESCRIPTION":"Samples",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.3.8.1",
+        "DESCRIPTION":"the contractor shall allow for samples as required in the specifications",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.4",
+        "DESCRIPTION":"CONTRACTORS ADMINISTRATIVE ARRANGEMENTS",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.4.1",
+        "DESCRIPTION":"Site Administration",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.4.1.1",
+        "DESCRIPTION":"the contractor shall provide sufficient staff and equipment to perform the administrative duties in executing the contract.",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.5",
+        "DESCRIPTION":"CONTRACTORS FACILITIES",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.5.1",
+        "DESCRIPTION":"Accommodation and Buildings",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.5.1.1",
+        "DESCRIPTION":"the contractor is to include\/ allow for providing the following facilities at site, maintaining for the duration of the work, clearing away on completion and making good. (suitable land area only shall be provided by the main work contractor)",
+        "QUANTITY":null,
+        "UNIT":null,
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":null,
+        "REMARKS":null
+    },
+    {
+        "ITEM":"1.5.1.2",
+        "DESCRIPTION":"all site facilities and accommodation together with all necessary temporary utilities services, furniture, lighting\/ power, car ports, it networks, computer hard and software, material storage, workshops and the like",
+        "QUANTITY":"1.0",
+        "UNIT":"Item",
+        "UNIT PRICE(AED)":null,
+        "TOTAL PRICE (AED)":"Included",
+        "REMARKS":null
+    }
+]
